@@ -369,13 +369,21 @@ Having stuffed myself with three entrées back in the lounge, I wasn’t particu
 
 We walked up the front stairs to Business Class, down the length of the upper deck, and back down a spiral staircase to Economy Class. Zaf said he’d love to take me to see the pilots’ cockpit, but the airline has stopped allowing that in recent years due to security concerns.
 
+ビジネスクラスへと向かう階段をあがり、上部デッキを抜け、エコノミークラスへと繋がる螺旋階段をおりる。Zaf は残念そうに「コクピットもお見せしたいのですが…」という。セキュリティ上の懸念により、航空会社がそれを禁止したそうだ。
+
 **When I got back to the Suites, the lights were already turned down indicating it was time to sleep.**
+
+スイートクラスの客室に戻ってくると、照明が既に落とされている。もう寝る時間ってことだ。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*x7JXc62rj6_REzSR2bK0LA.jpeg)
 
 In the Suites, you don’t just lie on a seat that has gone flat. Instead, you step aside while the Singapore Airlines flight attendants transform your Suite into a bedroom, with a plush mattress on top of a full-sized bed. When the adjacent suite is empty, the dividing partition can be brought down to create a double bed.
 
+スイートクラスのベッドはフラットになるタイプで、そこに寝そべればいい、といったものじゃない。ちょっと部屋をあけている間に、シンガポール航空の客室乗務員が客室を寝室に変えてしまうんだ。ベッドはフルサイズで、高級マットレスつき。隣の客室が空いていれば、パーティションをどけて、ダブルベッドを作ることだってできる。
+
 **Zaf and a stewardess went about making the bed.**
+
+Zaf と女性客室乗務員がベッドを用意し始めたぞ。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*YRxfau6tUDBZCD_zJza0SQ.jpeg)
 
@@ -385,17 +393,25 @@ In the Suites, you don’t just lie on a seat that has gone flat. Instead, you s
 
 **I don’t even know how to express this in words.**
 
+ちょっとこれ、言葉にできないね。
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*Oy3qWLcyR34p5u-PIhFU7A.jpeg)
 
 **I probably need a poet to describe how amazing this was.**
+
+あー、詩人だったらこの凄さを言葉にできるだろうに。残念。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*LQHDOooWPFc6E-1QEk7f9Q.jpeg)
 
 **I jumped into bed squealing like a little girl.**
 
+「キャーッ」と女の子のような歓声を上げた僕は、ベットに飛び込んだ。
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*CyUvRosMKoPYgDzHMKFI7Q.jpeg)
 
 **I spent the next hour lounging in all possible positions.**
+
+そこから、1時間ほどいろんな姿勢でのんびりしてみた。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*91vZoTxMhgs_qxJmDMkREw.jpeg)
 
@@ -405,45 +421,73 @@ In the Suites, you don’t just lie on a seat that has gone flat. Instead, you s
 
 **Some people might say this seems to be the loneliest flight ever. And to that, I say this:**
 
+「うわー、こんなフライト寂しすぎる」だって？じゃあ、これはどう？
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*TS8h74kvx0m_xxsOQ1IVPA.jpeg)
 
 **And while you’re doing stupid things like that in the Suite, you can use the ‘Do Not Disturb’ button for privacy.**
+
+こうやってスイートクラスの客室でふざけてる間は、「就寝中（Do Not Distub）」ボタンを使えば邪魔されることもない。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*7_WlCsRGLY8p_axl6CsOnQ.jpeg)
 
 Through the entire flight, the attendants check on you almost every 3 minutes without being intrusive or annoying. They would just briskly walk past you with quick glance.
 
+まあ、フライトの間は客室乗務員が3分おきくらいに様子を見にくるけどね。とはいっても、目障りな感じはなくて、横を通るときにサッと見てくるくらい。
+
 I paid a visit to the restroom to change into the pajamas provided.
 
+次はトイレ。用意されてたパジャマに着替えようと思ってね。
+
 **It’s a restroom, what were you expecting?**
+
+もちろん、普通のトイレですよ。変なこと想像してたでしょ？
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*vBqPC0BUcnUwZU-7tAsQWw.jpeg)
 
 **There’s a seat that folds down that’s actually more comfortable than most Economy Class seats.**
 
+この折りたたみ式の椅子、エコノミークラスの座席より心地いいんだよね。
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*fxI0cuSHcUfkfMbvoqRppw.jpeg)
 
 > *And henceforth, I slept. Well, not on the toilet of course.*
 
+着替え終わったので一眠り。もちろん、便器をベッド代わりに寝たわけじゃないよ。
+
 **When I woke up, I saw the clock and my heart sank. A little over 3 hours to Frankfurt. I’d slept for 6 hours, or \$6,000 worth of the flight.**
+
+目が覚めて時計を見てガッカリ来てる僕。それもそのはず、あと3時間ちょっとにフランクフルトに着いちゃう。6時間も、つまりフライト料金のうち6,000ドル分も寝てしまった。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*hi9_FwvBBpBlaIeBX_xFCg.jpeg)
 
 **So to cheer myself up, I asked for a chocolate and was handsomely rewarded with two.**
 
+元気を出そうと思ってチョコレートを頼んだら、気前よく2つももってきてくれたよ。
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*vUL2kw9I0MrepLaI71ry7A.jpeg)
 
 We landed at Frankfurt for a two hour layover, and the three of us in Suites Class were escorted to the Lufthansa Senator Lounge which had a spa and hot shower.
 
+フランクフルトでは乗り継ぎ待ちが2時間くらいあったのだけど、僕を含めたスイートクラスの乗客3名はルフトハンザ航空の Senetor ラウンジ（温泉とシャワーつき）に案内してもらえたんだ。
+
 Getting back on the plane, a new crew was onboard for the flight to New York.
 
+待ち時間が終わって飛行機に戻ると、そこからはニューヨーク行きのフライト。客室乗務員の皆さんも交代です。
+
 **It was 8 in the morning and I decided to begin the day with a Singapore Sling.**
+
+現地時間は8時、今日のおめざはシンガポール・スリングで。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*5jPzttnDP5N-HF7Y4YG2SA.jpeg)
 
 > *For breakfast, I used Singapore Airlines’****Book the Cook****service.*
 
+朝ご飯には、前もってシンガポール航空の料理人予約サービスを頼んでおいたんだ。
+
 It allows you to pre-order a specific meal before the flight, which is then specially put onboard the flight for you.
+
+これは前もって食べたい料理を注文できるサービス。頼んだ料理は僕専用で、ちゃんと飛行機に積み込まれるって話。
 
 **I had the Lobster Thermidor with Buttered Asparagus, Slow-roasted Vine-ripened Tomato, and Saffron rice.**
 
@@ -451,11 +495,17 @@ It allows you to pre-order a specific meal before the flight, which is then spec
 
 **And dessert, which I can’t remember what it was.**
 
+これはデザート。えっと、なんだっけ……
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*JYmNvmCMXb_pwDiNESCSsA.jpeg)
 
 When it was time to nap, I didn’t want to trouble the crew for a full double bed, so I opted for a single bed instead.
 
+一眠りしたくなったんだけど、わざわざ乗務員をよんでダブルベッドを用意してもらうようなことはしたくない。ということで、今回はシングルベットで一休み。
+
 **The partition between the two middle suites slides up to form a wall.**
+
+客室の間にあるパーティションを引き上げると目隠しの壁に早変わり。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*MOTvqw20aka2Pid_XQu2mQ.jpeg)
 
@@ -463,9 +513,13 @@ When it was time to nap, I didn’t want to trouble the crew for a full double b
 
 **The single bed is plenty spacious on its own.**
 
+シングルベットとはいえ、広さは十分、快適そのもの。
+
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*zX0mzMysMN_UXcVxL4o0MA.jpeg)
 
 **Waking up, I was immediately presented with the second meal I pre-ordered through Book the Cook.**
+
+目を覚ますともう昼食の時間。料理人予約サービスで頼んでおいた料理が出てくる。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*tcZGiryC2q56Q6QLh0ReGw.jpeg)
 
@@ -477,9 +531,15 @@ When it was time to nap, I didn’t want to trouble the crew for a full double b
 
 As we finally landed at New York, a huge problem presented itself — I didn’t want to leave the plane.
 
+とうとうニューヨークに到着。ここで最後にして最大の問題にぶちあたる……飛行機を降りたくないよ～～。
+
 I have to say, after being served Dom Pérignon in a double-suite bedroom at 36,000 feet, I’m not sure flying experiences get any better than this.
 
+高度36,000フィート、ダブルベッドのスイートルームでドン・ペリニヨンを飲む。そんなフライトを経験してしまうと、もうこれ以上は望めない。
+
 > But eventually I got off the plane, because New York’s not too bad.
+
+とはいえ、やっぱり飛行機を降りることにはしたんだ。ニューヨークだってそんなに悪いとこじゃないしね。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*n3LxMb3HZHEziMGcH6MrtQ.jpeg)
 
