@@ -161,7 +161,7 @@ I followed her past what seemed to be 50–60 people in the Business Class loung
 
 **Entering the confines of The Private Room, the staff greeted me by name. It’s like they all already knew me before even meeting me.**
 
-The Private Room に一歩踏み入れると、スタッフがみな僕の名前を呼んで挨拶してくれる。まるで会う前から僕のことを知っていたかのようだ。
+The Private Room に一歩踏み入れると、スタッフがみな僕の名前を呼んで挨拶してくれる。まるで会う前から僕のことを知っていたかのよう。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*5K6ebCAfsGdFSnqIeCvUqQ.jpeg)
 
@@ -185,11 +185,11 @@ The Private Room に一歩踏み入れると、スタッフがみな僕の名前
 
 > *Completely stuffed at this point, I realized it was time for boarding.*
 
-もうお腹パンパン、と思ったらもう搭乗の時間だ。
+もうお腹パンパン、と思っていたら、あっという間に搭乗の時間だ。
 
 There was a dedicated jet bridge solely for Suites passengers. Standing at the end of the bridge was a flight attendant ready to greet me.
 
-搭乗用ブリッジはスイートクラスの乗客専用で、ブリッジの渡りきったところには、客室乗務員が挨拶しようと待ち構えてる。
+搭乗用ブリッジはスイートクラスの乗客専用で、ブリッジの渡りきったところには、客室乗務員が挨拶しようと待ち構えてくれてる。
 
 “Good evening Mr Low!”
 
@@ -197,7 +197,7 @@ Low 様、こんにちは！
 
 I realized that they would address me by whatever title I chose in my Singapore Airlines KrisFlyer profile. I instantly regretted not going with President Low or Princess Derek.
 
-そっか、前もって Singapore 航空の KrisFlyer に登録した敬称であれば、なんであれその敬称で呼んでくれるんだ。Low 大統領、とか、Derek 王子、とかにしとけばよかったな。
+そっか、前もって Singapore 航空の KrisFlyer に登録した敬称であれば、どんな敬称でも構わなかったんだ。Low 大統領、とか、Derek 王子、とかにしとけばよかったな。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*Lato33-sqMnWNhwMq92SPQ.png)
 
@@ -215,7 +215,7 @@ I realized that they would address me by whatever title I chose in my Singapore 
 
 **“Would you like a glass of Dom Pérignon, sir?” And I replied the only acceptable response to such a question: Yes.**
 
-お客様、ドンペリはいかがでしょうか？ こう聞かれてしまうと、返事はこれしかないよね。「ください」
+お客様、ドン・ペリニヨンはいかがでしょうか？ こう聞かれてしまうと、返事はこれしかないよね。「ください」
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*5En0PsDtLXGCo7Bm4D7Z_g.jpeg)
 
@@ -249,7 +249,7 @@ Zaf によれば、スイートクラスの乗客は3名しかいなくて、客
 
 **Dom Pérignon and Iced Milo in hand, it was time to take off.**
 
-ドンペリとミロをもらって、さあいよいよ離陸の時間。
+ドン・ペリニヨンとミロをもらって、さあいよいよ離陸の時間。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*ktj2KyAUyb6d6XiE8OiGdQ.jpeg)
 
