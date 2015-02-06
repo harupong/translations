@@ -59,7 +59,11 @@ Yes, show me sharing options
 What It’s like to Fly the \$23,000 Singapore Airlines Suites Class {#3189 .graf--h2 name="3189"}
 ------------------------------------------------------------------
 
+往復チケット200万円、シンガポール航空のスイートクラスに乗ってみた
+
 #### The world’s best airline experience, from Singapore to New York. {#5141 .graf--h4 name="5141"}
+
+世界最高のフライト、シンガポール発ニューヨーク行き
 
 \
 
@@ -289,7 +293,7 @@ I don’t know much about coffee, but I do know the Jamaican Blue Mountain costs
 
 **Zaf returns with the coffee and tells me about their selection of gourmet coffee, and how the Blue Mountain was “by far the most outstanding”.**
 
-Zaf がコーヒーを持ってきてくれた。今回のフライトで用意されているグルメコーヒーについて説明してくれる。それによると、ブルーマウンテンは「圧倒的に素晴らしい」そうだ。
+Zaf がコーヒーを持ってきてくれた。今回のフライトで用意されているグルメコーヒーについて説明してくれる。それによると、ブルーマウンテンは「断トツに素晴らしい」そうだ。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*sGxPb6viyhyWaNzNcZ4wbA.jpeg)
 
@@ -477,7 +481,7 @@ Getting back on the plane, a new crew was onboard for the flight to New York.
 
 **It was 8 in the morning and I decided to begin the day with a Singapore Sling.**
 
-現地時間は8時、今日のおめざはシンガポール・スリングで。
+現地時間は朝8時、今日のおめざはシンガポール・スリングで。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*5jPzttnDP5N-HF7Y4YG2SA.jpeg)
 
