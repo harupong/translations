@@ -2,124 +2,121 @@
 
 \
 
-*(this was originally given as a talk at*[*AlterConf*](http://alterconf.com)*in Oakland. this talk only addresses ジェンダー・ダイバーシティ and was given in the context of other talks addressing racism, disability, classism, and many other topics.)*
+*（この記事の元となっているプレゼンテーションは、オークランドで開催された [*AlterConf*](http://alterconf.com) のものです。そのプレゼンテーションのテーマはジェンダー・ダイバーシティについてでした。同カンファレンスでは、人種差別、障害、階級差別など多様なテーマについてのプレゼンテーションが行われていました。）*
 
 * * * * *
 
-In an [advertisement campaign](https://www.youtube.com/watch?v=XjJQBjWYDTs) by Always, when adult women and men are asked to run/hit/throw like a girl they do those things wispily and terribly. On the other hand, when young girls are asked to run/hit/throw like a girl, they do those things with lots of enthusiasm and effort. When asked what doing things like a girl means to them, a young girl responds “Do them as best as you can.”
+Always（訳注：女性用品のブランド）の広告(https://www.youtube.com/watch?v=XjJQBjWYDTs)に、成人男性や成人女性に「走る・打つ・投げる」を女の子のようにやってもらう、というのがあります。頼まれた人々がそれをおこなう様子は、なよなよしくひどいものでした。次に、その広告では同じことを若い女の子達に頼んでみます。すると、彼女達がそれをおこなう様子はまさに「精一杯・一生懸命」でした。その後、「女の子のようにやる」ってどういうことかな？と尋ねてみると、女の子の1人がこう返します。「自分に出せる全力でやる、っていうことよ」。
 
-Heartbreakingly, at some age, we become convinced that doing anything like a girl means that you are doing it ineffectively, wimpily, and in a way that can’t be taken seriously at all. What then, does this mean for women and non-binary people who work in technology and present as feminine? What does it mean for those of us who code like girls?
+がっかりさせられますが、ある程度年をとると、「女の子のように何かをする」ということが何を意味するか、ある種の固定観念が身につきます。具体的には、「だらだらと・なよなよしく・真剣に受け取ってもらえない」ように何かをする、ということです。いったいこの固定観念は、女性や "non-binary"、男女以外のジェンダーの人にとってどういった意味を持つのでしょうか。テック業界で女性として働く人達、女の子のようにコードを書く人達（わたしもその1人です。）にとって何を意味しているのでしょうか。
 
-I want to share with you some of my experiences during my 20 years of presenting as feminine and being a programmer along with similar experiences shared by some women I’ve talked to. I’ll also talk about some actionable things that we can do to make tech and games a place where people can feel comfortable presenting as any gender.
-
+今日は、女性として、プログラマーとして20年働いてきた私自身の経験談と、同じような立場にあった女性達との会話からわかった彼女達の経験談を紹介します。もう一つ、テック業界やゲーム業界で働く人達が自由に自らの性別を表現できるようになるために私達に何ができるか、についてもお話したいと思います。
 * * * * *
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*oZA7pTY3OqNYGBO9xcuIJQ.jpeg)
 
-“but you don’t look like a programmer”
+「でも、プログラマーっぽくないよ」
 
-One category of reactions that I receive all the time as a programmer that presents as feminine is: **No one believes I am a programmer.**
+女性としてプログラマーという仕事についていると必ず受けるリアクションの1つに、「私がプログラマーだとは誰も信じてくれない」というものがあります。
 
-I can’t tell you how many people, when meeting me and hearing my profession, tell me that I look like a designer, someone in accounting, someone in marketing, anything but a programmer.
+実際に会って私の職業を知った人達に何度言われたかわからないくらいです。デザイナーか、経理関係か、マーケティング関係か......とにかく、私の職業はプログラマー以外の何かだろうと。
 
-I have been a TA for weekend workshops that teach women to code. My male co-TA’s constantly asked me throughout the workshop how I was enjoying learning to program.
+私はこれまで、週末のワークショップで補助教員として女性にコードの書き方を教えてきました。補助教員仲間の男性からはワークショップ中いつも尋ねられるのは、プログラミングを勉強するのはどうだったか、ということです。
 
-Apparently, presenting as feminine makes you look like a beginner. It is very frustrating that I will either look like not a programmer or look like a permanent beginner because I have programmed since age 8. I have basically always wanted to be a programmer. I received undergrad and grad degrees from MIT. I’ve worked as a visiting researcher in Honda’s humanoid robotics division on machine learning algorithms for ASIMO.
+そこからわかったことは、女性らしくしていると初心者っぽく見えてしまうということです。プログラマーだと思ってもらえなかったり、いつまでも初心者扱いされるとすごくイライラします。というのも、私は8歳のころからコードを書いてきたからです。基本的に、いままでずっとプログラマーになりたいと思って生きてきました。MIT で学士と修士もとりました。ホンダの人型ロボット部門で ASIMO 用の機械学習アルゴリズムの研究を担当する客員研究員として働いたこともあります。
 
-I don’t think that any of these things make me a better programmer; I list them because I am pretty sure that if i were a white man with these credentials or even less than these credentials no one would doubt my programmer status.
-
+ただ、こういった経歴があっても、私のことを優れたプログラマーだと思ってくれる人はいないと思います。にも関わらずあれこれ挙げたのは、とあることを確信しているからです。私が白人男性でこういった経歴があった場合、誰もプログラマーとしての私を疑わないだろうということを。例え経歴がこれより劣っていても、事情は変わらないでしょう。
 * * * * *
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*_GeA0rU8tYyTE_HC31mlGw.jpeg)
 
-“you wouldn’t understand”
+「どうせわからないでしょ」
 
-[Tracy Chou](http://twitter.com/triketora), an engineer at Pinterest, shared this story with me: A couple years ago she attended a technical conference and on the first day, she wore a dress. When she walked around the conference, no one came up to talk to her. When she asked people very technical questions about their stack, questions she assumed would indicate that she was a programmer, she was brushed aside and told, “You wouldn’t understand.” She went back home that night really frustrated and flustered. She almost didn’t feel like going to the conference the next day. But she did and wore a nerdy tshirt and jeans instead, and she had a better experience that day. People assumed she was technical and didn’t dilute their explanations to her.
+ではここで、Pinterest のエンジニアである [Tracy Chou](http://twitter.com/triketora) から聞いた話を紹介しましょう。数年前、彼女が技術系のカンファレンスに参加したときの話です。初日、 ドレスを着て出かけた彼女は会場をウロウロしてみましたが、誰も話しかけてはこなかったそうです。そこで、参加者が採用しているシステム構成について、込み入った質問をしてみることにしました。そうすれば自分がプログラマーであることが伝わると思ったからです。結果は、「どうせわからないでしょ」と煙たがられて終わってしまいました。すっかりがっかりし意気消沈したまま帰宅した彼女、翌日は行くのをやめようかとも思ったそうです。ですが、思い直して、2日めはプログラマーっぽいTシャツとジーンズで行ってみることにしました。すると、前日よりずっと楽しめたのです。まわりのみんなが彼女のことを技術畑の人だと思い、説明するときに手抜きしなかったからでしょう。
 
-What can we do better as a community in these cases?
+考えてみてください。コミュニティの一員として、こういったケースで何ができるでしょう？
 
-**Assume people are as or more qualified than you.**
+「相手を自分と同じくらい、もしくは自分よりもその分野で詳しい人だと思ってください。」
 
-If you’re at a conference and talking to a feminine presenting person, assume they are an expert in the field of the conference.
+カンファレンスで話しかけている相手の見た目が女性であったなら、その人はカンファレンスのテーマについての専門家だと思ってください。
 
-Before you are about to explain a paper condescendingly to someone in a dress, assume that they wrote it.
-
+とある論文についてドレス姿の人を相手に偉そうに講釈する前に、一度思いとどまって「この人がその論文を書いた人かもしれない」と考えてみてください。
 * * * * *
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*AB_QrNrn5z9opqwGGQ5WZQ.png)
 
-“I wrote it.”
+「私が書きました。」“I wrote it.”
 
 * * * * *
 
-Never ask “Who are you here with?” assume someone is at event out of their own interest.
+絶対に、「誰と一緒に来たんですか？」などと質問しないでください。その人自身が興味をもったからその場に来ている、と思うようにしてください。
 
-Instead of assuming what someone’s position or career is, ask, ask politely, and don’t act surprised at the answer.
+相手の肩書や経歴を勝手に想像せず、礼を尽くして尋ねてください。回答がなんであれ、びっくりするようなことがあってはなりません。
 
 * * * * *
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*AJ0bnQxzqL4dfExwhUB_Hw.jpeg)
 
-“don’t play with your hair”
+「髪の毛を触るな」
 
-Another category of things I experience all the time is: **When I get feedback, I get gendered feedback.**
+話が変わりますが、「フィードバックをもらうときに、女性であることを意識させられるようなフィードバックがくる」ことがよくあります。
 
-I remember giving project presentations during college. We would receive feedback from peers, and the professor would also hand out awards for the projects & presentations they thought were best. Despite several times getting awards from professors on my presentations about de-duplication algorithms for backup storage or face-recognition algorithms for my image processing class, this was the kind of feedback I always got from my peers:
+よく覚えているのが、大学で参加していたプロジェクトに関する発表をしたときのことです。フィードバックをプロジェクトメンバーからもらい、これが一番良かったとメンバーが評価した発表に対して、教授から表彰が受けられる、というものでした。実際に、何度か表彰を受けたこともあります。バックアップ用の重複削除アルゴリズムについての発表や、画像処理のクラスで作った顔認識アルゴリズムについての発表に対してでした。ですが、表彰を受けるほどの発表であったにも関わらず、プロジェクトメンバーからは以下のようなフィードバックを常に受けていたのです。
 
-“Why are your slides so pink? It’s very distracting.”
+「なんでスライドが全部ピンクなの？すごく目障り」
 
-“Stop pushing your hair behind your ear when you present. It’s very distracting.”
+「発表するときに髪をかきあげるの、やめてくれないかな？すごく気が散るんだ」
 
-“Your voice goes up after every sentence you say.”
+「話すとき必ず語尾があがるね」
 
-and comments rating my appearance.
+これらに加えて、外見に点をつけるようなコメントも数多くありました。
 
 * * * * *
 
-I met [Liz Rush](https://twitter.com/lizmrush), a new programmer who graduated from the [Ada Developers Academy](http://adadevelopersacademy.org/), at Rubyconf last year. In her year of giving talks about tagging civic data with her project partner, also an [Ada Developers Academy](http://adadevelopersacademy.org/) graduate, she talked about how her most frequent feedback was statements like “nice outfit”, and “you’re so pretty” instead of comments on the actual content of her presentation. One person started asking her a technical question after a presentation & then changed their mind, saying, actually let me ask your partner about this instead, I think she might have more to contribute.  Liz’s project partner is a woman who doesn’t present as feminine, while Liz does. These experiences have made Liz decide that she doesn’t want to give any conference talks this year, and only speak at female-centered & diversity-focused meetups.
+[Liz Rush](https://twitter.com/lizmrush) とは去年の RubyConf で知り合いました。彼女が [Ada Developers Academy](http://adadevelopersacademy.org/) を卒業して、プログラマーとしてのキャリアを始めたばかりのころです。In her year of giving talks about tagging civic data with her project partner, also an [Ada Developers Academy](http://adadevelopersacademy.org/) graduate, そのときのフィードバックといえば、「その服いいね」だとか「きみ、かわいいね」などで、発表の内容に関するものではなかったそうです。質問をしてきた人達のなかには、発表が終わってから彼女に一度技術的な質問をした後に、「あー、やっぱりパートナーの方に聞いてみてもいいかな。彼女のほうが力になってくれそうだし」などと言う人もいたそうです。Liz’s project partner is a woman who doesn’t present as feminine, while Liz does.こういったこともあって、Liz は今年いっぱいはカンファレンスでのプレゼンはおこなわないことにしたそうです。その代わりに、ダイバーシティに特化した女性中心のミートアップに参加したい、とのことでした。
 
-We can do better with this.
+これに関して、もっと改善の余地があるとは思いませんか。
 
-In order to make feminine women and feminine non-gender binary people in tech feel valued for their accomplishments, we can:
+成し得たことに対して見合った評価を得られているとテック業界で女性として振る舞っている人達（女性であってもそうでなくても）が実感できるようになるために、
 
-**Give feedback based on content.**
+中身に対してフィードバックしましょう。
 
-When you think something is distracting during a presentation, ask yourself, do you really mean that you are just not used to seeing this in a presentation?
+発表の最中に何か目障りなことがあったら、一度考えてみてください。「ひょっとして、これって単に発表の最中にそういったことを目にするのに自分が慣れてないだけじゃ？」と。
 
-Ask yourself, “Would I give this feedback to a masculine-presenting white cis man?”
-
+「相手が男らしくシスジェンダーな白人男性でも、おなじフィードバックするかな？」と考えなおしてみてください。
 \
 
 * * * * *
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*w3O0_Yr_JtYsX00_DWM-yA.jpeg)
 
-“is this professional?”
+「これがプロのやること？」
 
-Another thing that feminine-presenting women and non-binary people have to deal with that other people in tech don’t have to: **the tightrope walk of professionalism & fashion when deciding what to wear to interviews or presentations.**
+その他にも、女らしく振舞っている女性や男女以外のジェンダーの人達に特有の問題というのはいくつもありますが、特に悩ましいのが「インタビューやプレゼンの場に着ていく洋服を選ぶときの、プロらしさとオシャレの間の綱渡り」です。
 
-I’ve seen women tweet before giving their first technical presentation, “Wearing a dress is out of the question for this, right?” Women worry that if they wear dresses when they present they might not get taken seriously or they might receive unwanted comments or advances. I’ve read so many internet advice columns that say: “Women, don’t distract from your own presentation! Dress nicely but not flashily”.
+初めて技術的なプレゼンテーションをしようとしている女性が、発表前に「今度のプレゼン、ドレス着ていくなんて問題がいよね？」とツイートする場面に何度も出くわしてきました。女性達が心配なのは、「もし発表するときにドレスを着ていたら、内容を真面目に聞いてもらえないかもしれないし、余計なコメントや不快な誘いすら受けかねない」ということです。これまでに目にしたネットコラムでアドバイスとしてよく出てくるパターンがこれです。「女性の皆さん、自分のプレゼンテーションで聴き手の気を散らすようなことをしてはいけません。小綺麗な格好をしておく必要はありますが、目を引くような派手さは必要ないのです」。
 
-I’ve seen women worried that if they wear makeup or dress up that they’re not being feminist, and I’ve seen feminists chide women who present as feminine.
+「きちんと化粧したほうがいいか、フェミニストっぽくならないような服装にしたほうがいいか」で困っている女性を大勢見てきました。, and I’ve seen feminists chide women who present as feminine.
 
-It’s one kind of progress for people to agree with the statement “Women can be anything they want”. It combats a kind of sexism called oppositional sexism. But theres another kind of sexism, traditional sexism, that we’ve made less progress on. You could get more people to agree that women can be anything they want than to agree that femininity as as valuable as masculinity.
+こういった流れは、「女性はありたい自分であればいい」と思うよう人もいる、という点において前進ではあります。Oppositional Sexism（排他的性差別主義）に対向する流れだからです。しかし、それは Traditional Sexism（男性優位的性差別主義）に対しては役に立っていません。女らしさと男らしさは同じくらい意味のあることだ、という主張よりも、女性はありたい自分であればいい、という考え方に同意してくれる人の方が多いはずです。
 
-Let’s take for example the idea of a Strong Female Character. There are plenty of them in movies. But think of what comes to mind as traits for a woman being badass: loud, assertive, rides a motorcycle, maybe really good at martial arts. And yes that woman does sound badass. But we pretty much never explore the idea of strong female characters that save the world by being feminine, empathetic, and caring.
+一例として、"Strong Female Character" について考えてみましょう。運命の女だったり魔性の女だったり、映画でよく出てくるキャクターですね。では、この女性キャラクターが荒くれ者だった場合はどうでしょう。やかましくて断定的、バイクを乗り回していて、拳法が得意、などなど。いかにも荒くれ者って感じ、しますよね。ですが、こういった想像をしてみても、女らしく相手の立場に立って思いやり豊かに世界を救う "Strong Female Character" というパターンに思い至ることはないでしょう。
 
-This is part of the problem of *Lean In*, too: women should feel free to be assertive if that’s their personality and let’s celebrate that instead of criticizing it, but let’s also celebrate people that display leadership by empathy and encouraging.
+これはまた、Lean In という書籍に存在する問題でもあります。女性が「はきはきとしたい」と思い、それが本人の個性なら、好きにそうすればいいのです。それは望ましいことであって、批判されるべきことではありません。ですが、相手の立場に立って励ましていくことで人々を導くリーダーがいるならば、それもまた望ましいことなのです。
 
-Let’s value individuality in how people would like to present themselves. Let’s recognize femininity as valuable and celebrate it in anyone who would like to display it.
+人々が自分をどう表現するのかはその人次第です。個性を尊重しましょう。女らしさも同じように尊重し、そうありたいと思う人がいれば進んで受け入れるべきです。
 
 * * * * *
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*xrs6xnfotp-01hXBecuuDg.jpeg)
 
+プログラマーの見た目
 this is what a programmer looks like
 
-Once an ex-partner told me “You look better in jeans and a tshirt. Why do you wear dresses? Why do you wear make up? You don’t have to dress up to impress me.” That moment led me to so many realizations. It made me realize that most people think femininity is an act to impress men. It was then that I was 100% sure my dressing up wasn’t for him at all, I didn’t at all care if a partner disliked my dresses, or makeup. I was wearing them for me. And it was then, that I realized that continuing to wearing dresses just for myself was a totally valid way to say a big FUCK YOU to the patriarchy.
+「ジーンズにTシャツのほうがよく似あってるんだけどなぁ。なんでわざわざドレスを着たり化粧をしたりするの？おしゃれして感心させようとしなくてもいいんだけど。」と前に仕事で一緒だった人から言われたことがあります。そう言われて、あーそうか、と実に多くのことに気づきました。まず、大抵の人にとって「女らしさ」とは男性を感心させる手段である、ということです。私がおしゃれしてしたのはその男性のためでなかったのは明白だったので、彼が私のドレスや化粧を嫌っていようが何も気になりませんでした。自分がそうしたかったから、おしゃれしていたわけですし。さらに、自分自身のためにドレスを着続ければ、男性中心の父権社会に「ほっといてよっ！」というメッセージを強く示すこともできるわけですから。
 
-So I say: if you feel like you are able to, and if you don’t feel up for it that is totally ok because self-care comes before any kind of activism. But if you feel up to it, I encourage you wear exactly what you want. Be as flamboyant, fancy, frilly, girly as you would like to be. Do it while being a gamer, a programmer, a game designer. Because you are helping to change people’s ideas of what a programmer/gamer/game developer looks like. And you are making the world a more awesome place by being you.
+結びに代えて：出来そうな気がするけどやる気が起こらない......まったく問題ありません。どんな活動よりも、自分を大切にすることが優先されるべきです。ですが、もしやる気もあるなら、ぜひ好きな服を着てでかけましょう。ド派手でも、奇抜でも、フリフリでも、ガーリーでも思うままにすればいいのです。ゲーマー・プログラマー・ゲームデザイナーとして活動しつつ、自由に行動しましょう。そうすることで、プログラマー・ゲーマー・ゲーム開発者の外見に対する世間のイメージが変わってくるはずです。自分らしくあり続ければ、この世はもっといい感じになっていくに違いありません。
 
 * * * * *
 
-*Thanks to*[*AlterConf*](http://alterconf.com)*for creating a safe space for me to talk about this, and to*[*Tracy Chou*](http://twitter.com/triketora)*and*[*Liz Rush*](http://twitter.com/lizmrush)*for letting me share their stories.*
+謝辞：AlterConf(http://alterconf.com)* こういったテーマについて話しても大丈夫な機会を与えてくれたことに。[*Tracy Chou*](http://twitter.com/triketora)* と *[*Liz Rush*](http://twitter.com/lizmrush)* 2人の体験を公開させてくれたことに。
