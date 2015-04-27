@@ -1,92 +1,45 @@
-**Lost In Emoji Translation: Apple vs. Android** {#2747 .graf--h2 .graf--first name="2747" data-align="center"}
-------------------------------------------------
+ロスト・イン・トランスレーション 絵文字編 ～Apple と Android を比べてみた～
 
-\
+その絵文字が何を意味してるのか、送信ボタンを押してしまう前に確認する方法、教えます。
 
-#### How to make sure you know what you’re actually saying before you press send. {#cbef .graf--h4 name="cbef" data-align="center"}
+誰かに絵文字を送るとき、相手の画面ではどんな風に見えてるか気にしてますか？絵文字の意味が、プラットフォーム次第で大きく違ってしまうことが今回の調査でわかったんです。「かわいい目をしたウンチの絵文字」を送っているつもりかもしれませんが、実際のところ、受け取られるのは目を覆いたくなるあれ（そう、ハエが出てくるアレです。）かもしれませんよ。
 
-\
+スマホ世代である我々にとって、これは言語学上の由々しき問題なわけです。今日は、この問題を解消するお手伝いをしたいと思います。全絵文字の比較表が Unicode の公式ページ http://www.unicode.org/Public/emoji/1.0/full-emoji-list.html にありますので、そちらもぜひ確認してみてください。絵文字のご利用、どうぞ慎重に。
 
-**By Alana Levinson**
+あっちのウンチとそっちのウンチ、ぜんぜん違うんです
 
-* * * * *
+Apple：くっそー、バスいっちゃったじゃん！
 
-**When you send**an emoji to someone, are you thinking about how it will be viewed? Because, it turns out, their meaning can completely change depending on platform. You *could* think you’re sending a poop \*with a wink\* but really be communicating that something serious — something that involves flies — is going down.
+Android：うーん、あのフードトラックの肉がよくなかったみたい……
 
-This is the great linguistic challenge of our generation, and so we are here to help. Check out a full list over at [Unicode](http://www.unicode.org/Public/emoji/1.0/full-emoji-list.html) and remember to emoji thoughtfully.
+サルサの女王だったはずのダンサーも、マルッとした物体に早変わり
 
-#### There Are Two Very Different Kinds of Poop {#ab99 .graf--h4 name="ab99" data-align="center"}
+Apple：今夜はハデにさわぐよっ！
 
-\
+Android：なんとかしてこの恋を続けたいんだ。こんな見た目になっちゃったけど。
 
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*j-JCcLs0F6UsXJBqjyBx2Q.jpeg)
+インベーダーゲームに出てくるあのエイリアンも、こっちじゃタコっぽい何か
 
-**Apple:**Ah shit, I missed my bus.
+Apple：今日の夜は Daft Punk のイベント！！
 
-**Android:**So, that food truck meat did not sit well…
+Android：上司が最悪のタコ野郎でさ。
 
-* * * * *
+走っていたはずのランナーにピンチ！前に進む力は失せ、名無しのゴンベエになっちゃいそう
 
-#### The Dancer Goes From Salsa Babe To Rotund Blob {#4dd4 .graf--h4 .graf--first name="4dd4" data-align="center"}
+Apple：いま向かってるよ！
 
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*tpcIerJmiXmBojzALutQFg.jpeg)
+Android：ジンジャーブレッドクッキー人形、逃走中。
 
-**Apple:**Party tonight!!!!!
+マニキュアが女性の贅沢の象徴だったのも今は昔
 
-**Android:**Trying to keep the romance alive even though I look like
-this.
+Apple：ネイルオッケー、髪の毛もオッケー。準備万端よ。
 
-* * * * *
+Android：いま爪塗ってるの。は～、めんどくさい。
 
-#### Alien Monster Is Now A Creepy Octopus {#fdd8 .graf--h4 .graf--first name="fdd8" data-align="center"}
+喜びに両手を突き上げるあの人、実は赤ちゃんだったんだって
 
-\
+Apple：さあ、ひれ伏すがいいわ。
 
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*Dr_L4YF0QPtUHDNXX3H2RA.jpeg)
+Android：ママー、おきがえのじゅんびできたよ～
 
-* * * * *
-
-**Apple:**Daft Punk show tonight!
-
-**Android:**My boss is an asshole sea creature.
-
-* * * * *
-
-#### Runners Are In Danger of Losing All Forward Motion And Identity {#66d8 .graf--h4 .graf--first name="66d8" data-align="center"}
-
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*O70VYWPRyJY9TzkizrCCFA.jpeg)
-
-**Apple:**On my way!
-
-**Android:**The gingerbread cookie man escaped.
-
-* * * * *
-
-#### Nail Polish Is No Longer A Marker Of Feminine Ballin’ {#4b79 .graf--h4 .graf--first name="4b79" data-align="center"}
-
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*IkkhWpBXx5MLNMjU46PRow.jpeg)
-
-**Apple:**Nails done, hair done, everything did.
-
-**Android:** I’m painting my nails. It’s boring.
-
-* * * * *
-
-#### A Person Raising Both Hands In Celebration Is Actually A Baby {#7ef0 .graf--h4 .graf--first name="7ef0" data-align="center"}
-
-\
-
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*PMb6g20yVeIaMwS-zhpLmQ.jpeg)
-
-**Apple:**Bow down, bitch.
-
-**Android:**Ready to be changed, mom!
-
-[![](https://d262ilb51hltx0.cloudfront.net/max/800/1*Eokg3vUJW1RvQa9JS0Oe9g@2x.png)](https://medium.com/matter)
-
-*Images courtesy*[*emojipedia.org*](http://t.co/hfqSwhPiMR)
-
-***Log in to Medium and “recommend” this story.\
-****Follow Matter on*[*Twitter*](http://twitter.com/readmatter)*| Like
-us on*[*Facebook*](http://facebook.com/readmatter)*| Subscribe to
-our*[*newsletter*](http://eepurl.com/0eY7T)
+画像許諾：[*emojipedia.org*](http://emojipedia.org/)
