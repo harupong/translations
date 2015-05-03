@@ -1,23 +1,21 @@
 https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908
 
+Slack 28億ドル 「秘伝のタレ」
 ### Slack’s \$2.8 Billion Dollar Secret Sauce {#b37b .graf--h3 .graf--first name="b37b" data-align="center"}
+
 
 #### How Slack stole a multi-billion dollar market by becoming everyone’s favorite sassy robot sidekick. {#3699 .graf--h4 name="3699" data-align="center"}
 
 
-\
+「で、Slack http://www.slack.com はどうしてあんなにうまくいってるの？何かしら特別なこと、したんでしょ？」車載の Bluetooth スピーカーから声が響く。「なんであれ、彼らにしたのと同じことをして欲しいんだ。」電話で話していたのは、見込み顧客である有名 SaaS プロバイダーの CEO。自社製品デザインの見直しをうちに頼もうとしてやりとりを続けてる。上述のような質問を受けたので、これまでに数えきれないほど繰り返してきた説明を彼にもすることにした。
 
-“So what’s the secret behind [Slack](http://www.slack.com)? What did you guys do that was so special?” the voice crackled over my car’s Bluetooth, “I want you guys to do whatever you did for them.” I was on a call with a prospective client, the CEO of a successful SaaS app who wanted to hire us to redesign his product. I launched into a story that I’ve told hundreds of times.
+実際のところ、過去一年間、毎日この質問を顧客や投資家、デザイナー仲間から受けてきた。みんな「Slack 大成功の秘密」をなんとか探ろうとしていたわけだ。Slack は今ではすっかり業界を取り込んでしまったかのように思える。評価額は圧巻の28億ドル、何十万ものユーザー数をほこり、常識はずれの速度で成長中だ。
 
-I’ve been asked this question almost every day for the past year by clients, investors, and fellow designers trying to reverse engineer the secret behind Slack’s success. It seems like Slack is taking over the world these days, now sporting a mind-boggling \$2.8 billion dollar valuation, hundreds of thousands of users, and a break-neck growth rate.
+Slack に関する質問がどうして僕のところに来るかというと、それは MetaLab http://www.metalab.co というデザイン事務所を経営しているから。この事務所のことを知っている人はあまりいないかもしれない。表舞台に出ることは少ないからね。けれど、僕達がデザインしたサイトやサービスを誰でも一度は使ったことがあるはず、っていう自信はある。2013年も終わりに近づく頃、Slack から依頼を受けて彼らが作った初期プロトタイプを作りこんで仕上げることになった。ロゴ・マーケティング用のサイト・Web サービス用のサイトとモバイルアプリ、それらすべてをたった6週間で片付けた。その後いくつか変更があったといえ、Slack の大半は変わることなく MetaLab が納品したままの状態で今も運営されている。
 
-Why ask me about Slack? I run a design agency called [MetaLab](http://www.metalab.co). You may not have heard of us — we usually work behind the scenes — but I can pretty much guarantee that you’ve used something that we’ve designed. In late 2013, Slack hired us to help them turn their early prototype into a polished product. We did the logo, the marketing site, and the web and mobile apps, all in just six weeks from start to finish. Apart from a few tweaks here and there, much of the product remains unchanged since the day we handed our designs off to the team at Slack.
+会社を立ち上げてから10年になるが、Slack は弊社最大の成功例だ。これまでにいくつもの大企業と仕事をしてきたけれど http://www.metalab.co、それは間違いないと思う。現時点での評価額は28億ドルで、有料ユーザー数は20万人を超えているし、ありがたいことに使う人はみなデザインを絶賛してくれている。とはいえ、まさかこれほどうまくいくとは思っても見なかったけれど。
 
-In almost ten years of business, Slack is, without a doubt, our most successful project to date — and [we’ve worked with some big names](http://www.metalab.co). It’s now valued at \$2.8 billion, has over 200,000 paying users, and our favourite part: people can’t stop talking about its great design. But I wouldn’t have predicted that going into it.
-
-* * * * *
-
-In July 2013, I got an email from Stewart Butterfield. I recognized his name immediately. I was a big fan of Flickr, which he co-founded and sold to Yahoo, and we were both based in the Pacific Northwest. He had big news: he was shutting down [Glitch](http://en.wikipedia.org/wiki/Glitch_%28video_game%29), the game he’d started in 2009, and was working on something new. He wanted us to design his new team chat app.
+2013年7月、Stewart Butterfield からメールをもらった。彼の名前にはすぐにピンときた。僕が愛用している Flickr を生み出したのは彼だし（のちに Yahoo に売却。）、2人ともアメリカ北西部の太平洋沿いに住んでいたからね。メールをくれたのはビッグニュースが2つあったから。1つは Glitch http://en.wikipedia.org/wiki/Glitch_%28video_game%29 を閉鎖するというニュース（Glitch は Butterfield が2009年から開発してきたゲーム。）で、もう1つは彼が新しいプロジェクトに着手した、というニュース。そのメールで Butterfield は、新たに始めたグループチャットアプリのデザインを手伝って欲しい、と言ってきた。
 
 I groaned to myself. We were avid users of [Campfire](http://www.campfirenow.com), and had tested out the many copycat products that had come out over the years. I felt the problem had already been solved. It was a crowded market and knew it would be difficult to make his product stand out from the crowd. Regardless, I was excited to get a chance to work with Stewart, and thought it would be fun to solve some of the issues that we’d had with Campfire. We shook hands, kicked things off, and rolled up our sleeves.
 
