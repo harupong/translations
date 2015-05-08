@@ -11,32 +11,16 @@ Innovators vs. Dinosaurs {#0607 .graf--h2 .graf--first name="0607" data-align="c
 #### A Happy Hippie op-ed {#052b .graf--h4 name="052b" data-align="center"}
 
 ***by Miley Cyrus***
-
+マイリー・サイラス
 \
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*lRLnWMYc1LiALmXDhn9mNA@2x.png)
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*6XCYvfRPgHNR6QrV25lPhg.jpeg)
 
-In December of last year, Leelah Alcorn, a young transgender girl,
-committed suicide. It hit me as hard as if I had known her. I felt
-connected to her. For a year, my focus has been on helping homeless
-youth, and it was heartbreaking to hear that 40 percent of homeless
-teens identify as LGBT. The more I learned about what life can be like
-as a transgender person, the more I realized how especially woven into
-homelessness that is. Acceptance is a huge step towards eradicating
-youth homelessness. Being who you are and who you want to be has nothing
-to do with gender, sexuality, body type, race, or age.
+去年の11月、トランスジェンダーの女の子 Leelah Alcorn が自殺したの。とても辛かった。知り合いの自殺のように辛く感じたわ。一方で、彼女とのつながりも感じたの。この一年くらい、ホームレスの若者を支援してきたから。その活動を通じて、ホームレスな10代のうち40％が自分のことを LGBT だと認識していると聞いたときはショックだったわ。トランスジェンダーな人にとって「生きていく」ことがどういったことなのか。それを知るにつれ、トランスジェンダーであることがホームレスになってしまうこととどう繋がるのかも分かってきたの。つまり、受け入れてもらう、存在を認めてもらうことが若者がホームレスになってしまうのを防ぐ特効薬だ、ということなのよ。自分らしく、ありたい自分であることと、性別・性的傾向・体格・人種・年齢はまったく関係ないんだから。
 
-I haven’t been quiet or shy about discrimination issues towards the LGBT
-community because by alienating people, it makes it harder to work, live
-in society, have a home, have a family, and can result in homelessness.
-I wanted to learn more about other challenges in the LGBT community,
-like violence against transgender women, HIV/AIDS and family
-condemnation. Anything beautiful on this planet takes time, and with
-time comes change. That’s why I’m launching the Happy Hippie
-Foundation — because every life is valuable and we should make sure
-those who question their value feel protected.
+LGBT の人達に対する差別問題については、これまでにも色々と発言してきたわ。そういった人達が周りから孤立してしまうと、働くこと、地域の一員として暮らすこと、家や家族を持つことなんかがすごく大変になると思うから。そして、それが彼ら/彼女らがホームレスに陥ってしまう原因になってしまうの。LGBT のコミュニティで起きている様々な問題をもっと知りたいと思うようになったわ。トランスジェンダーの女性に対する暴力、HIV/AIDS、家族に理解してもらえず逆に強く非難される LGBT の人達の問題……この世にあるすばらしいものが実を結ぶにはなんであれ時間がかかるけど、時間をかければきっと変えていけるはず。だから、今日ここに Happy Hippie Foundation を立ち上げるの。すべての人生には意義があって、自分の存在意義が何か分からず迷う人達も安心して暮らせるようにしていくべきだと思うから。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/600/1*vvCSdY_z1qAdCiIrb9PYjg.jpeg)
 
