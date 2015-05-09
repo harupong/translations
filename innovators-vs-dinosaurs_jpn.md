@@ -1,132 +1,31 @@
+#### 膨れ上がった現状を打破するには
 
-https://medium.com/@MileyCyrus/innovators-vs-dinosaurs-5f40cfd29bc5
+#### Happy Hippie 論説
 
-#### Innovators vs. Dinosaurs {.metabar-drawerTitle}
-
-* * * * *
-
-Innovators vs. Dinosaurs {#0607 .graf--h2 .graf--first name="0607" data-align="center"}
-------------------------
-
-#### A Happy Hippie op-ed {#052b .graf--h4 name="052b" data-align="center"}
-
-***by Miley Cyrus***
 マイリー・サイラス
-\
 
-![](https://d262ilb51hltx0.cloudfront.net/max/800/1*lRLnWMYc1LiALmXDhn9mNA@2x.png)
+去年の11月、トランスジェンダーの女の子 Leelah Alcorn が自殺したの。とても辛かった。知り合いの自殺のように辛く感じたわ。一方で、彼女とのつながりも感じたの。この一年くらい、ホームレスの若者を支援してきたから。その活動を通じて、10代でホームレスな人達のうち40％が自分のことを LGBT だと認識していると聞いたときはショックだったわ。トランスジェンダーな人にとって「生きていく」ことがどういったことなのか。それを知るにつれ、トランスジェンダーであることがホームレスになってしまうこととどう繋がるのかも分かってきたの。つまり、受け入れてもらう、存在を認めてもらうことが若者がホームレスになってしまうのを防ぐ特効薬だ、ということなのよ。自分らしく、ありたい自分であることと、性別・性的傾向・体格・人種・年齢はまったく関係ないんだから。
 
-![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*6XCYvfRPgHNR6QrV25lPhg.jpeg)
+LGBT の人達に対する差別問題については、これまでにも色々と発言してきたわ。そういった人達が周りから孤立してしまうと、働くこと、地域の一員として暮らすこと、家や家族を持つことなんかがすごく大変になると思うから。結局、それが彼ら/彼女らがホームレスに陥ってしまう原因になってしまうの。LGBT のコミュニティで起きている様々な問題をもっと知りたいと思うようになったわ。トランスジェンダーの女性に対する暴力、HIV/AIDS、家族に理解してもらえず逆に強く非難される LGBT の人達……この世にあるすばらしいものが実を結ぶにはなんであれ時間がかかるけど、時間をかければきっと変えていけるはず。だから、今日ここに Happy Hippie Foundation を立ち上げるの。すべての人生には意義があって、自分の存在意義が何か分からず迷う人達も安心して暮らせるようにしていくべきだと思うから。
 
-去年の11月、トランスジェンダーの女の子 Leelah Alcorn が自殺したの。とても辛かった。知り合いの自殺のように辛く感じたわ。一方で、彼女とのつながりも感じたの。この一年くらい、ホームレスの若者を支援してきたから。その活動を通じて、ホームレスな10代のうち40％が自分のことを LGBT だと認識していると聞いたときはショックだったわ。トランスジェンダーな人にとって「生きていく」ことがどういったことなのか。それを知るにつれ、トランスジェンダーであることがホームレスになってしまうこととどう繋がるのかも分かってきたの。つまり、受け入れてもらう、存在を認めてもらうことが若者がホームレスになってしまうのを防ぐ特効薬だ、ということなのよ。自分らしく、ありたい自分であることと、性別・性的傾向・体格・人種・年齢はまったく関係ないんだから。
+どんな絵だってはじめはまっさらなキャンバスから始まるわけで、明確な目的を持った人が描くことで初めて作品として成り立つの。そして、私達一人一人はまさにキャンバスそのものだわ。自由に描いていいはずだし、ありたい自分をそこに表現すべきなのよ！
 
-LGBT の人達に対する差別問題については、これまでにも色々と発言してきたわ。そういった人達が周りから孤立してしまうと、働くこと、地域の一員として暮らすこと、家や家族を持つことなんかがすごく大変になると思うから。そして、それが彼ら/彼女らがホームレスに陥ってしまう原因になってしまうの。LGBT のコミュニティで起きている様々な問題をもっと知りたいと思うようになったわ。トランスジェンダーの女性に対する暴力、HIV/AIDS、家族に理解してもらえず逆に強く非難される LGBT の人達の問題……この世にあるすばらしいものが実を結ぶにはなんであれ時間がかかるけど、時間をかければきっと変えていけるはず。だから、今日ここに Happy Hippie Foundation を立ち上げるの。すべての人生には意義があって、自分の存在意義が何か分からず迷う人達も安心して暮らせるようにしていくべきだと思うから。
+本物の自由である「表現の自由」を描くアーティストになろうとする人達を、Happy Hippie Foundation は支援していくの。この自由が、ありたい自分である自由に繋がると思うから。自由を勝ち取るには、これからも戦わなきゃいけない。いまこそ手を取り合って、不公平さを正していくの。Happy Hippie な人達は、自分以外を幸せにする人だと思う。仮に相手が自分のような人ではなくても。とはいえ、Happy Hippie Foundation のテーマはひとつではないわ。私はまだ若いし、世の中にはごまんとあるもの。正すべきこと、学ぶべきこと、情熱を注ぐべきことが。若くしてホームレスになってしまった人達や LGBT であることで不利益を被っている若者の存在は、私達が直面する問題のなかでもまさに「今そこにある問題」なの。この問題と戦う活動の一員であることを誇りに思うし、事態が大きく変わろうとしているこのときに生きていられることがとても嬉しい。ブルース・ジェンナーが、自らの知名度を使っていかに「善行を積む」か、世の中を変えていくかを話しているのを聞いたことがあるの。素晴らしい内容だったわ。そう、それがやりたい！って強く思ったの。
 
-![](https://d262ilb51hltx0.cloudfront.net/max/600/1*vvCSdY_z1qAdCiIrb9PYjg.jpeg)
+私達は変わらなきゃいけないし、若い人達は変化を期待していいのよ。本当の自分を隠したまま毎日過ごしていると、生活そのものが耐え難くなってしまうわ。感情（最たる例は愛情ね。）がある人間の場合は特にね。だけど、不毛な批判やそこから生じる悲しい出来事があまりに多すぎるのよ。人にみな感情があるし、尊重されるべき権利だってあるんだから！
 
-![](https://d262ilb51hltx0.cloudfront.net/max/600/1*2MhRwBfiAaPLzznZivJy8A.jpeg)
+本当の自分を隠すべき人なんて、誰一人いないのよ。彼/彼女の名前・性別・地位・性的指向は関係ないわ。そして、それこそが Happy Hippie が存在する理由なの。すぐそばにいて「あなたの人生には意義があるのよ」と言い続けるの。Happy Hippie の役割は、自分達の人生の意義がわからず迷っている人達を受け入れ、愛されていると感じられるようにすることよ。彼ら/彼女らもまた、大切な存在なの。
 
-![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*KvUQnRq-FmqopzJenpfopw.jpeg)
+Happy Hippie では、これまでに集めて寄付した資金で、ロサンゼルスにある My Friend's Place というホームレス用避難所にいる若者たちに食べ物や清潔な靴下・肌着を今後2年分提供しているの。「清潔な靴下・肌着」というと当たり前に思えるかもしれないけど、アメリカ国内で160万人にのぼるホームレスの若者達にとっては大切なことなの。それらすら持っていないわけだから。今後、6万食を超える食事も提供される予定よ。
 
-Art starts as a blank canvas and has to be painted on by someone with a
-vision to become a piece of art. We are our own canvases — we should be
-free to create anything we want our lives to be!
+話は変わるけど、動物から愛され慕われること、自由に芸術を深めていけることは、私にとってとても大切なことなの。ホームレスの人達がそれらに触れると、人生を築き直していくときに感情面での支えになったり、新たな技能を学ぶときの助けになったりといいことずくめだったわ。何かを作ることのすごいところって、良し悪しがないことだと思うの。それは自分自身が感じたままを表現することなんだけど、ホームレスの若者の多くがそうは出来ずにいるのよね。そういった人達に、また自分自身を表現できるようになってほしいの。Happy Hippie では、物資の提供を通じてそういった人達を支援していくわ。それに加えて、動物と一緒に暮らすプログラムにも資金提供していくわよ。動物と一緒に暮らせば健康状態の改善に繋がるし、動物が最高のパートナーになることだってあるしね。
 
-The Happy Hippie Foundation is encouraging people to be the artists of a
-picture of true freedom, freedom of self-expression… freedom to be true
-to themselves. The fight to be free isn’t over. We have to rally
-together and fight injustice. Being a happy hippie means making others
-happy, even those unlike yourself! Happy Hippie Foundation isn’t just
-focusing on one problem; I am young and there is so much to fight for,
-learn, and be passionate about. Homeless youth and young people
-experiencing the negative effects of being LGBT in our world today is an
-issue that is very common and extremely current. I am honored to be a
-part of this movement and living in a time to witness the revolution!
-Bruce Jenner spoke beautifully about using his platform and fame to DO
-GOOD and to make real change, and I want to do exactly that!
+この前、ニューヨーク州がホームレスの若者用予算を450万ドルに増やすかもしれない、という話が出たの。クオモ州知事・Heastie 下院議長、Skelos 上院議長宛に、この話を支援するようお願いする文章を送ったわ。私のファンのみんなも嘆願サイトを通じて支援を頼んでくれて、予算が通ったのよ。まさにいま、何かが変わったの！若者が、若者達のために立ち上がったの！Happi Hippie では、支援の輪をネット上で作っていくための取り組みを進めてるわ。LGBT の若者達をネット以外の方法で支援するきっかけになってくれれば、と思ってる。技術の力で安心できる場所を提供して、若い人達とその家族が居場所に関係なく協力できれば、ってね。
 
-Change is what we need and what young people are counting on! Living a
-life untrue to who you really are makes life unbearable for human beings
-with feelings and emotions — like love, maybe the greatest one of them.
-Pointless judgment and its consequences are unfortunately way too
-common. All humans have valid feelings and rights!
+Happy Hippie の取り組みも私自身の活動も、まだまだ始まったばっかり。けれど、何千もの人達が一緒に活動してくれてる。受け入れてもらえず、不公平な扱いを受けている人達を助けるため、一緒に戦ってくれてるの！
 
-No one should have to hide who they really are, no matter what his or
-her name, gender, status or orientation. That’s why happy hippies are
-here to say that every life is valuable and it is our mission to make
-sure those who question the value of themselves and their lives feel
-protected and loved by us… which they very much are.
+これからは、政界・テック業界・エンタメ業界の著名人とも活動していく予定よ。みんなが暮らしたくなるような世の中を一緒に築いていくの。ファンのみんなには「場」を提供したい。そこでしか知り得ないような問題が学べる場を。みんなが自由に質問できる場にもしたいし、手を取り合って協力できる場であってほしい。世代が変わろうとしてるわけだし、もっと幸せで自由な世の中を作ってそこで暮らせるようにしたいと思うの。私達、まだまだ成長し、学んでいけるでしょ。きっと世の中だってそうよ。この地球には数十億の人が暮らしているけど、誰もが幸せになっていいはずよ。
 
-![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*ysiu0WlzXXyyztyLa40bcw.jpeg)
+Happy Hippie Foundation https://www.facebook.com/HappyHippieFoundation が昨日、ついに動き出しました！最初にお届けするのは #HappyHippiePresents の Backyard Sessions です！No Freedom と Different の2曲を Joan Jett と一緒に歌った動画があるので、ぜひ見ていってくださいね。あと、ネット上に LGBT の若者とその家族達を支援するグループを作るための募金にもご協力をお願いします。
 
-Happy Hippie has raised and donated money so that homeless young people
-at My Friend’s Place shelter in LA will receive food and clean socks and
-underwear for the next two years. While clean socks and underwear seem
-normal to us, they aren’t to the 1.6 million homeless young Americans
-without them. They will also receive more than 60,000 meals and snacks.
-
-The loyalty of animals and the freedom of art are huge parts of my life.
-When brought into the homeless community, they are proven interventions
-that help build skills and provide the emotional supports that help
-homeless youth rebuild their lives. The best part of making art is that
-there is no right or wrong. It is the expression of what we feel — a
-freedom that has been taken away from so many of these young people. We
-want to help give it back to them. Happy Hippie programs include the
-supplies and equipment to encourage this self-expression. We are also
-funding animal companion programs, which build health status and can
-provide a loyal friend to those who need one most.
-
-When we learned about the possibility to increase NY funding for
-homeless youth to \$4.5 million, we wrote to Governor Cuomo, Speaker
-Heastie, and Leader Skelos to support the move. My fans added their
-support through an online petition, and the budget passed. We are making
-big changes! Youth fighting for youth! Happy Hippie’s current project is
-creating digital support groups that will simulate physical support
-groups for LGBT youth. This will be a safe and moderated place that
-utilizes technology so young people and their families can join in no
-matter where they live.
-
-This is just the beginning for me and Happy Hippie. Thousands have
-joined our community and our fight for acceptance and justice for those
-who aren’t getting it!
-
-We are working with some of the top names in politics, technology, and
-entertainment to build the world that we want to live in. I want to give
-my fans a platform to learn about issues that they might not have
-otherwise, a safe place to ask questions, a place to collaborate and
-take action! There is a new generation about to take over and I hope
-that we can create a happier and freer world to live in. We are all
-still growing, learning, and evolving…. And so should our world. There
-are billions of different people on this earth… and they all deserve to
-be happy.
-
-[![](https://d262ilb51hltx0.cloudfront.net/max/800/1*WoyxZRynnqQ44RDRm0Dktg@2x.png)](http://www.happyhippies.org/#donate)
-
-* * * * *
-
-*Officially launched*[*The Happy Hippie
-Foundation*](https://www.facebook.com/HappyHippieFoundation)*yesterday
-with ‪\#‎HappyHippiePresents‬: Backyard Sessions! Watch the full video
-of me performing “*No Freedom*” and*“Different”*with Joan Jett, and
-donate to help us raise funds to create digital support groups for LGBT
-youth and their families.*
-
-*The Happy Hippie Foundation is dedicated to fight the injustices faced
-by homeless youth, LGBT youth and other vulnerable populations. To learn
-more about the foundation,*[*click
-here*](http://miley.lk/happyhippie)*.*
-
-[](http://www.happyhippies.org/)[**The Happy Hippie Foundation**\
-*The Happy Hippie Foundation rallies young people to fight
-injustice.*www.happyhippies.or](http://www.happyhippies.org/ "http://www.happyhippies.org/")g
-
-RecommendRecommended
-
-BookmarkBookmarked
-
-Share
-
-More
-
-* * * * *
-
+Happ Hippie Foundation は、ホームレスや LGBT の若者をはじめとした弱い立場にある人達が甘んじている不公平さを正していくための組織です。詳細はこちら http://miley.lk/happyhippie をご確認ください。
