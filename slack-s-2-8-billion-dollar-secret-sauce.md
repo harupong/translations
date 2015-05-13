@@ -1,11 +1,9 @@
 https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908
 
-Slack 28億ドル 「秘伝のタレ」
+Slack秘伝のタレ、お値段28億ドル
 ### Slack’s \$2.8 Billion Dollar Secret Sauce {#b37b .graf--h3 .graf--first name="b37b" data-align="center"}
 
-
-#### How Slack stole a multi-billion dollar market by becoming everyone’s favorite sassy robot sidekick. {#3699 .graf--h4 name="3699" data-align="center"}
-
+#### 「小生意気だけど憎めない、みんなのロボット助手」であることを選んだ Slackが、以下にして数十億ドル規模の市場を席巻したか
 
 「で、Slack http://www.slack.com はどうしてあんなにうまくいってるの？何かしら特別なこと、したんでしょ？」車載の Bluetooth スピーカーから声が響く。「なんであれ、彼らにしたのと同じことをして欲しいんだ。」電話で話していたのは、見込み顧客である有名 SaaS プロバイダーの CEO。自社製品デザインの見直しをうちに頼もうとしてやりとりを続けてる。上述のような質問を受けたので、これまでに数えきれないほど繰り返してきた説明を彼にもすることにした。
 
@@ -13,66 +11,58 @@ Slack 28億ドル 「秘伝のタレ」
 
 Slack に関する質問がどうして僕のところに来るかというと、それは MetaLab http://www.metalab.co というデザイン事務所を経営しているから。この事務所のことを知っている人はあまりいないかもしれない。表舞台に出ることは少ないからね。けれど、僕達がデザインしたサイトやサービスを誰でも一度は使ったことがあるはず、っていう自信はある。2013年も終わりに近づく頃、Slack から依頼を受けて彼らが作った初期プロトタイプを作りこんで仕上げることになった。ロゴ・マーケティング用のサイト・Web サービス用のサイトとモバイルアプリ、それらすべてをたった6週間で片付けた。その後いくつか変更があったといえ、Slack の大半は変わることなく MetaLab が納品したままの状態で今も運営されている。
 
-会社を立ち上げてから10年になるが、Slack は弊社最大の成功例だ。これまでにいくつもの大企業と仕事をしてきたけれど http://www.metalab.co、それは間違いないと思う。現時点での評価額は28億ドルで、有料ユーザー数は20万人を超えているし、ありがたいことに使う人はみなデザインを絶賛してくれている。とはいえ、まさかこれほどうまくいくとは思っても見なかったけれど。
+会社を立ち上げてから10年になるが、Slack は弊社最大の成功例だ。これまでにいくつもの大企業と仕事をしてきたけれど http://www.metalab.co、それは間違いないと思う。Slack の現時点での評価額は28億ドルで、有料ユーザー数は20万人を超えているし、ありがたいことに使う人はみなデザインを絶賛してくれている。とはいえ、まさかこれほどうまくいくとは思っても見なかったけれど。
 
 2013年7月、Stewart Butterfield からメールをもらった。彼の名前にはすぐにピンときた。僕が愛用している Flickr を生み出したのは彼だし（のちに Yahoo に売却。）、2人ともアメリカ北西部の太平洋沿いに住んでいたからね。メールをくれたのはビッグニュースが2つあったから。1つは Glitch http://en.wikipedia.org/wiki/Glitch_%28video_game%29 を閉鎖するというニュース（Glitch は Butterfield が2009年から開発してきたゲーム。）で、もう1つは彼が新しいプロジェクトに着手した、というニュース。そのメールで Butterfield は、新たに始めたグループチャットアプリのデザインを手伝って欲しい、と言ってきた。
 
-I groaned to myself. We were avid users of [Campfire](http://www.campfirenow.com), and had tested out the many copycat products that had come out over the years. I felt the problem had already been solved. It was a crowded market and knew it would be difficult to make his product stand out from the crowd. Regardless, I was excited to get a chance to work with Stewart, and thought it would be fun to solve some of the issues that we’d had with Campfire. We shook hands, kicked things off, and rolled up our sleeves.
+思わずうなったよ。うちは当時 Campfire http://www.campfirenow.com のヘビーユーザーで、Campfire 以降出てきた類似プロダクトも随分試していたんだけど、こういったサービスにはもう改善すべき点がないと感じてた。市場競争が激しい分野だし、他より Butterfield のプロダクトを目立たせるのは至難の業だと思ったわけだ。とはいえ、彼と一緒に仕事ができるのはテンションが上がる話だったから、Campfire に感じてた不満を解消するのもいいかもな、と思うようになった。そんなわけで、彼からのオファーを受け、キックオフの場も設け、「さぁやるぞ！」と腕まくりしたわけだ。
 
-When he pulled back the curtain and shared their early prototype on day one, it looked like a hacked together version of IRC in the browser.  Barebones and stark. Just six weeks later, we had done some of the best work of our careers. So, how did we get from hacky browser IRC to the Slack we all know and love?
+初日、これまで見せてもらえなかった出来たばかりのプロトタイプを見せてもらった。IRC をブラウザーに押し込んだような感じで、飾り気もなくそっけないものだった。我々は、6週間かけてそれを弊社最大の成功例と呼べるサービスに仕立てあげた。ブラウザーに押し込まれた IRC をみんなが大好きなあの Slack にどうやって変身させたか、これから説明していこう。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*quxuSggwBdYkyCoYlE3OAA.png)
 
-Some of our early design iterations (2013)
+初期のデザイン案あれこれ（2013）
 
-Figuring out why something is successful in retrospect is like trying to describe the taste of water. It’s *hard*. We aren’t big on process. We prefer to just put our heads down and design stuff, iterating over and over again until something feels right. Slack was no different — there wasn’t any magic process we used — but looking back, I’ve identified a few key things that helped make it the huge success it’s become.
+物事がどうしてうまくいったのかをあとから振り返るのは、水の味を説明するのに似ているようにも思う。それはすごく*難しい*。MetaLab では手順を重視していなくて、ただただ手を動かしてデザインしていくことを大事にしている。何度もそれを繰り返して、これだっ！という何かを見つけるんだ。Slack も同じように進めた。特別な手順があったわけじゃない。ただ、いま思えば、Slack をここまでの成功例たらしめたキーポイントはいくつかあるように思う。
 
-When you hear people talk about Slack they often say it’s “fun”. Using it doesn’t feel like work. It feels like *slacking* *off*, even when you’re using it to get stuff done. But when you look under the hood, it’s almost identical to every other chat app. You can create a room, add people, share files, and chat as a group or direct message one another. So, what makes Slack different? Three key things.
+Slack を使っている人の話を聞くと、「Slack は楽しい」というのをよく耳にする。使っていても仕事っぽい感じがしないってことだ。さぼってるような気にすらなってくる。Slack を使って仕事を片付けているのに、だ。とはいえ、裏側を見てみると、他のチャットアプリと何ら違いはないことがよくわかる。チャットルームを作って、メンバーを招待し、ファイルを共有したり、グループチャットをしたり相手を選んでメッセージを送ったりと、何も特別なことはない。では、Slack のどこが特別なのか？キーポイントは3つだ。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*Ryu8xQJ-6KRjP73jZe4HWg.png)
 
-Zeroing in on the branding (2013)
+ブランドを煮詰めているところ（2013）
 
-#### It Looks Different {#7c90 .graf--h4 name="7c90"}
+#### 見た目が違う
 
-\
+競争が厳しい分野で目立つために、それを実現する方法を探す必要があった。法人用ソフトウェアは、その大半が70年代に流行ったプロム（訳注：高校卒業記念ダンスパーティ）用の安物スーツみたいな見た目だった（当時は誰もが控えめの青かグレーのスーツを着てた）。だから、Slack のロゴをはじめとする見た目はカラフルな紙吹雪をばらまいたような配色にすることにした。青・黄・紫・緑を色鮮やかに散りばめたんだ。まるでテレビゲームのような配色で、とても法人用の協業支援ソフトウェアとは思えないくらいだった。
 
-To get attention in a crowded market, we had to find a way to get people’s attention. Most enterprise software looks like a cheap 70's prom suit — muted blues and greys everywhere — so, starting with the logo, we made Slack look like a confetti cannon had gone off. Electric blue, yellows, purples, and greens all over. We gave it the color scheme of a video game, not an enterprise collaboration product.
-
-**Here’s**[**HipChat**](http://www.hipchat.com)**next to Slack:**
+このスクリーンショットは左が HipChat で右が Slack。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*Eyy-KRgOtGcOnaAIJPV28Q.png)
 
-Which would you rather use? They both do exactly the same thing, but one feels dull and the other feels electric and playful. The difference?  Vibrant colors, a curvy sans-serif typeface, friendly icons, and smiling faces and emojis everywhere.
+どっちを使ってみたい？できることはまったく同じなんだけど、片方はつまらない感じがして、もう一方はカラフルで遊び心満載だ。何が違いを生んでるかって？鮮やかな色使いに曲線がきれいなゴシック体のフォント、かわいいアイコンにあちこちに表示される絵文字だよ。
 
-#### It Feels Different {#c3b0 .graf--h4 name="c3b0"}
+#### 使い心地が違う
 
-\
+Slack には、思わずニヤッとしてしまうような挙動をこれでもかと詰め込んだ。ロゴが表示されるときのカラフルなアニメーション、画面最上部からススッと降りてくるモーダルダイアログの動き、トランプを切っているかのようなチーム切り替えの動作。このプロダクトではそのすべてが、画面をところ狭しと楽しそうに飛び回っているかのようなのだ。単に画面上で起こっていることをわかりやすくするだけでなく、ユーザーがホッと表情をゆるめてくれるよう、こういった挙動はデザインされている。
 
-Slack is also chock full of fun little interactions. The logo animates in a burst of colors as it loads; modals slide down from the top of the screen; changing teams flips the screen around like a deck of cards.  Throughout the entire product, everything seems to playfully jump around and pop off the screen. Each of these interactions is designed not only to help the user understand what’s going on, but put a little smile on their face.
+まるでテレビゲームのような配色で、とても法人用の協業支援ソフトウェアとは思えないくらいだった。
 
-> *“We gave it the color scheme of a video game,\
-> not an enterprise collaboration product.”*
-
-Have you ever walked into a house and had an indescribable feeling that it just feels cheap? A professional builder would walk in and give you a laundry list of shortcomings: uneven drywall, gappy hardwood floors, hollow-core doors, and cheap hardware. But most people just have a gut reaction. Like a well-built home, great software focuses on giving its users hundreds of small, satisfying interactions. A great transition in a mobile app gives us the same feeling we get from using a well-made door handle on a solid oak door — you may not be able to put your finger on it, but man, does the house ever feel well built. Slack is really fun to use. It feels like a well-built house.
+誰かの家にお邪魔したとき、「なに、この安物っぽさ！？」と思ったことはないかな？建築の専門家なら、何がまずいのかをあれこれ教えてくれるだろう。不揃いの壁材・継ぎ目の目立つ硬木の床材・板張りのドア・安物機器の数々……でも、大抵の人はただただ直感的に反応する。優れた家と同様にすぐれたソフトウェアに不可欠なのは、細やかで満足のいく挙動をいくつもユーザーに返していくことだ。モバイルアプリの画面遷移がしっかりと作りこまれていれば、重厚なオーク材ドアに取り付けられたきちっとしたドアノブを使った時のような心地よさをユーザーに与えてくれる。Slack という家に実際に触れてみることはできないが、それの出来栄えには思わず感嘆の声が漏れてしまう。使っていてほんとうに楽しい。そう、Slack の使い心地はまさに優れた家のそれだ。
 
 #### It Sounds Different {#1eb1 .graf--h4 name="1eb1"}
 
 \
-
-But it’s not just how Slack looks and feels, it’s also about what it says. In Slack, every piece of copy is seen as an opportunity to be playful. Where a competitor might just have a loading spinner, Slack has funny quotes like, “Need to whip up a dessert in a hurry? Dump a bag of oreos on the floor and eat the oreos off the floor like an animal.” A strange little injection of fun into an otherwise boring day. Slack acts like your wise-cracking robot sidekick, instead of the boring enterprise chat tool it would otherwise be. Like *Interstellar’s* TARS, compared to *2001: A Space Odyssey’s* HAL9000:
+Slack の違いは見た目や使い心地に留まらない。メッセージの1つ1つにも工夫が凝らしてある。Slack に表示されるメッセージを、遊び場だと捉えているからだ。競合サービスなら読み込み中のアニメーションが表示されるであろう箇所には、クスっとくるような一文を表示する。「急いでデザートを作らなきゃいけないって？オレオを床にばらまいたら、動物みたいにそれにむさぼりつけばいいよ。」こんな具合で、ちょっとした楽しさがあちこちに置いてある。そうでもしないと一日退屈でしかたないだろ？Slack は冗談好きなロボット助手のように振る舞う。そうしないと、ありふれた法人向けチャットツールに成り下がってしまうから。後者が2001年宇宙の旅の HAL9000 だとすれば、前者はインターステラーの TARS といっていいだろう。
 
 **Slack:**
 
 > TARS: Everybody good? Plenty of slaves for my robot colony?
 
-**Their competitors:**
+**競合サービス:**
 
-> HAL9000: I can give you my complete assurance that my work will be
-> back to normal. I’ve still got the greatest enthusiasm and confidence
-> in the mission.
+HAL9000: たしかにここしばらく、わたしの判断にはいい加減のところがあった。だが正常にもどることは確約していい。この任務には、わたしは絶対の自信を持っているし……それに、きみを助けたいんだ。
 
-Even [Slack’s Twitter account](https://twitter.com/slackhq) sounds more like an emoji-loving comedian than a billion dollar enterprise software company:
+Slack の Twitter アカウント https://twitter.com/slackhq も、絵文字にはまってるお笑い芸人といったほうが正確で、とても数十億ドル規模のソフトウェア企業とは思えない。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*WdSRsXcnlyeo2tZSApwYIQ.png)
 
