@@ -64,7 +64,7 @@ Slack の違いは見た目や使い心地に留まらない。メッセージ�
 
 **Slack:**
 
-> TARS: Everybody good? Plenty of slaves for my robot colony?
+> TARS: Everybody good? Plenty of slaves for my robot colony? （映画の00:42:45,605 --> 00:42:49,417に出てくるセリフ）
 
 **競合サービス:**
 
