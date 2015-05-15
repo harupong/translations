@@ -74,18 +74,16 @@ Slack の Twitter アカウント https://twitter.com/slackhq も、絵文字に
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*WdSRsXcnlyeo2tZSApwYIQ.png)
 
-We humans have a tendancy to anthropomorphize just about everything, from our pets to inanimate objects. We think cars look like they are smiling, or that a lamp “looks lonely over there”. With Slack, a bubbly, bright UI, delightful interactions, and hilarious copywriting come together to create a personality. A personality which has triggered something powerful in its users: they care about it. They want to share it with others. It feels like a favorite co-worker, not a tool or utility.
+人は、何かれ構わず擬人化する。ペットはもちろん、無生物だってお構いなしだ。車を見ると「こっちに笑いかけてくれる」ように感じるし、電灯があると「なんか寂しそう」なんて思ったりもする。Slack の丸っこくてカラフルな UI、楽しい挙動の数々、クスっとくる文章は、それぞれが相重なって1つの個性を生むんだ。そうやって生まれた個性は、強烈な印象をユーザーに与えてくれる。みんながそれを大切に思うようになり、やがて誰かに教えたくなるのだ。その感情は同僚に対して抱く類のもので、決して便利なツールに対するものではない。
 
-> *“Slack acts like your wise-cracking robot sidekick, instead of the\
-> boring enterprise chat tool it would otherwise be.”*
+Slack は冗談好きなロボット助手のように振る舞う。そうしないと、ありふれた法人向けチャットツールに成り下がってしまうから。
 
 * * * * *
 
-As a kid, I used to love this burger chain called [White Spot](http://www.whitespot.ca). It started out as a tiny shack at a baseball stadium and over the past 85 years it has grown into a huge chain with locations all over Canada. The secret to its success? The “Triple-O” secret sauce that they put on all their burgers.
+子供のころ、White Spot http://www.whitespot.ca というチェーンのハンバーガー屋さんが大好きだった。チェーンの始まりは野球場にあったちっぽけな屋台だったけど、その後85年かけてカナダ中に店舗がある巨大チェーンに成長した。成功の秘訣は「Triple-O」と呼ばれる秘伝のタレ。これが全部のバーガーに使われてたんだ。
 
-I used to bug my parents to let us go to White Spot instead of having another gross lovingly home-cooked meal. That is, until my Dad dropped a bomb on me. “We should just make burgers at home,” he said “you know that sauce is just mayonnaise, ketchup, and a bit of relish, right?” Sure enough, we made it at home, and confirmed that their so-called secret sauce was a bunch of grocery store condiments mixed together.  Anyone could make it, but few people knew how or bothered. Instead they chalked it up to a some crazy secret recipe.
+当時はよく両親に「White Spot に行きたいよぉ」とせがんだもんさ。毎日お腹いっぱい食べていた家庭の味を差し置いてね。だけど、父親に衝撃の事実を告げられて、そんな日々も終わってしまう。「家でハンバーガー作っちゃえばいいんだよ」さらにこう畳み掛ける「あのソース、マヨネーズとケチャップをよく混ぜて、仕上げにちょっとレリッシュを入れれば作れるよ？」。事実その通りで、家でハンバーガーを作ってみたら、秘伝のタレとされていたものがどこでも手に入る調味料を混ぜあわせただけのものだったことがわかった。誰にでも作れるけど、そのことに気付いていたり、実際にやってみる人はほとんどいなかった。誰もがみな、「さすが White Spot 秘伝のタレ！」と思い込んでいたわけだ。
 
-Slack’s secret sauce is no different. Sure, it’s hard to get the mix of ingredients just right, but it doesn’t have any features that Hipchat and Campfire can’t build. It’s the same enterprise chat client underneath, but it’s playful, fun to use, and all that comes together to make it feel like a character in your life. It’s TARS, not HAL9000.
+Slack 秘伝のタレも似たようなものだ。もちろん、材料をちゃんと混ぜあわせるのは難しい。けれど、Slack の機能で HipChat や Campfire に実装不可能なものはなにもないんだ。一皮むけば似たような法人向けのチャットツールだけれど、Slack は使っていて楽しい。そしてそれこそが、Slack を a character in your life のように感じさせてくれる。TARS であって、HAL9000 とは違うんだ。
 
-Over the past couple months, their competitors have caught on. They’ve all started using casual copy and trying to bone up on design, but it’s a little like your uncle trying to do the macarena. It’s too little too late. Everyone has picked their robot sidekick. Slack has stolen the show.
-
+ここ数ヶ月で、競合サービスもそのことに気付いてきたらしい。いずれも気の利いた文章をサイト上で使うようになったし、ゴリゴリとデザインをいじってはいる。まぁ、伯父さんがマカレナに挑戦してるような感じではあるが。そう、手遅れ感が否めないんだ。お気に入りのロボット助手は2人もいらない。Slack が人気を独り占めしちゃったからね。
