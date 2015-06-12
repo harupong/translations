@@ -1,145 +1,145 @@
-#### When is the best time to publish? Wrong question. {.metabar-drawerTitle}
+#### 記事を公開するのに一番いい時間帯はいつですか？そんなものはありません。
 
-It’s by far the most common question we hear. “When is the best time to publish on Medium?” (That is, in order to maximize [total time spent reading](https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5), which is our focus at Medium.) Now we have an answer:
+「Medium に記事を公開するならいつが一番いいですか？」いろんな質問がくるけれど、圧倒的にこの質問が多い（もちろん、「記事を読むために費やされる時間」 https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5 をできるだけ長くするためには、だ。これが Medium で最重要の指標）。答えはこう。
 
-### It just doesn’t matter. {#0161 .graf--h3 name="0161" data-align="center"}
+### いつだっていいよ。 {#0161 .graf--h3 name="0161" data-align="center"}
 
-### At all. {#f4fa .graf--h3 name="f4fa" data-align="center"}
+### ほんとに。 {#f4fa .graf--h3 name="f4fa" data-align="center"}
 
-What *does*matter are two things:
+実際に鍵となるのはこの2つ。
 
-1.  How much effort you put into writing something engaging
-2.  How many followers you have
+1.  どれだけ努力して、人を惹きつける文章を書こうとしているか
+2.  何人フォロワーがいるか
 
-Once you account for those two factors, the publish time makes no difference. I’ll walk through the ten charts that prove it.
+これらをきちんと考慮しておけば、公開の時間帯はどうでもいい。これから、この結論の裏付けとなる10のチャートを順を追って見てみよう。
 
 * * * * *
 
-#### 1 | Publish Times {#5953 .graf--h4 .graf--first name="5953"}
+#### 1 | 公開の時間帯 {#5953 .graf--h4 .graf--first name="5953"}
 
-The first thing we can examine is when posts are published. Here are all posts grouped by 3-hour publish time intervals. *(Note: all the charts in this analysis exclude the top 1% of posts because they skew the numbers and are even less correlated with publish timing.)*
+まずはじめに調べるべきは、「記事がいつ投稿されているか」だ。以下のチャートでは、投稿時刻3時間ごとの投稿記事数をプロットした（注意：今回の分析に用いたチャートでは、人気最上位の記事（全体の1％）を除外した。そうしないと分析結果がおかしくなってしまう。人気の原因は「投稿時刻」ではないわけだから）。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*_6CG4rO-m59OXKYDKvb4Tw.png)
 
-The results aren’t too surprising.
+この時点ではおどろくようなことは特になく、
 
--   Peak publish hours are 6am-3pm PST, with about 25% more posts published during that time frame.
--   Peak publish days are weekdays, with about 50% more posts published on weekdays than on weekend days.
+-   投稿数が一番多くなる時間帯は6時～15時（太平洋標準時）。25％ほど多くなる。 
+-   投稿数が一番多いのは平日。週末とくらべて50％ほど多くなる。
 
 * * * * *
 
-#### 2 | Average Total Time Read (TTR) {#ed4f .graf--h4 .graf--first name="ed4f"}
+#### 2 | 平均 Total Time Read(TTR)
 
-Next we can look at average [total time read (TTR)](https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5) per post published during each interval.
+次は、投稿時刻3時間ごとの記事別平均 [TTR（total time read の略。総閲覧時間。）](https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5)を見てみよう。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*j2fBRMSuGTXxYauhK02Shw.png)
 
-“Ah-ha!,” you might say, “posts published during peak traffic hours *do*perform better.”
+こんな風に思ったのではないだろうか。「やっぱり！アクセスが多い時間帯に投稿した記事の方が閲覧数が *多くなる* んだ。」
 
-Yes, that’s how it seems at first. The difference is striking too: peak-time posts average more than triple the TTR of off-peak posts.
+確かに、一見そう思えるグラフではある。裏付けとなる差異もはっきり出てはいる。アクセス数が最大になる時間帯（ピーク時）に投稿された記事は、そうでない記事とくらべて TTR が3倍にもなるわけだから。
 
-But! Not all posts are created equal.
+だが、すべての投稿が平等にその条件に当てはまるわけでは決してない。
 
 * * * * *
 
-#### 3 | Average Word Count {#b569 .graf--h4 .graf--first name="b569"}
+#### 3 | 平均単語数 {#b569 .graf--h4 .graf--first name="b569"}
 
-To start exploring how these posts differ, let’s consider word count.
+記事の違いを分析する手始めとして、まずは単語数を検討してみる。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*TPx4aapl71tMobV30YNo5A.png)
 
-The peak-time posts are consistently longer on average. This surprised me — why would the publish time relate at all to post length? I’ll return to this in a moment, but first we have a possible explanation: these posts might have more TTR simply because they take longer to read. We can check by normalizing for word count.
+平均すると、ピーク時に投稿される記事は一貫して長文になる傾向があるようだ。これは意外だった。投稿日時と記事の長さ、どう関係があるのかがわからなかったわけだ。この点については次に詳しく説明するので、ここではそれらしい仮説、「長文記事で TTR が大きくなるのは、単に読むのに時間がかかるからだ」を挙げておく。単語数を正規化すれば、この仮説を検証できるはずだ。
 
 * * * * *
 
-#### 4 | Average TTR per Word {#9357 .graf--h4 .graf--first name="9357"}
+#### 4 | 単語別平均 TTR
 
-Instead of TTR per *post*published, here’s TTR per *word*published.
+記事ごとの TTR の代わりに、単語数別の TTR を見てみよう。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*NYlQ_I_ZBuEi68qj6pPUBQ.png)
 
-We see the same pattern. After accounting for post length, peak-time posts still have more TTR on average.
+同じような傾向があることがわかる。記事の長さを考慮から外しても、ピーク時に投稿される記事の TTR は平均して大きくなるのだ。
 
-But now we have a new question. Why are these peak-time posts longer? Maybe it’s the result of something else: quality. If these posts are somehow *better*, that could explain both why they tend to be longer and why they have more TTR on average. Unfortunately, it’s tough to quantify something as subjective as quality, but one possible proxy is how much time the author spent working on the post.
+だが、ここで別の疑問が生じる。ピーク時に投稿される記事のほうが長文になるのはなぜか、という疑問だ。ひょっとすると他に要因があるのかもしれない。具体的には「記事の質」だ。仮に、そういった記事のほうが質が高いのだとすれば、記事が長くなりがちなことや TTR が平均して大きくなることも説明がつく。とはいえ、品質ほど主観的なものを定量的に計測するのは実際のところ難しい。1つ、可能性として、執筆者がその記事に費やした時間の多寡を考えてみよう。
 
 * * * * *
 
-#### 5 | Average Drafting Time {#f4f9 .graf--h4 .graf--first name="f4f9"}
+#### 5 | 平均執筆時間
 
-We can use the time authors spend in the writing editor to estimate the average total drafting time per post.
+以下のグラフでは、執筆者が Medium の Web 編集ツールを使っていた時間を調べることで、記事ごとの執筆時間を比較した。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*CC-ITaBBm9CndJ4UuOPv2Q.png)
 
-Again, it follows the same pattern. Since this could also be a result of the higher word counts, we need to normalize for that.
+ここでもまた同じ傾向が確認できる。ただ、これも文字数の多さが影響している可能性があるため、正規化してみる必要がある。
 
 * * * * *
 
-#### 6 | Average Drafting Time per Word {#235d .graf--h4 .graf--first name="235d"}
+#### 6 | 単語ごとの平均執筆時間
 
-Here’s the average drafting time per word.
+単語ごとの平均執筆時間を調べたところ、以下のようなグラフになった。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*2b9KPCNvD184u9UHCBLHCg.png)
 
-Now we’re starting to see a clearer picture. Not only are the peak-time posts longer, but the authors also spend more time writing each word. This further supports the idea that these posts are higher quality. We can check if it explains the higher TTR by normalizing for time spent drafting.
+少しずつではあるが、全体像が見えてきたように思える。ピーク時に投稿された記事は単に長文だというだけでなく、執筆者は1語1語により時間をかけて記事を書きあげているようだ。これはつまり、そういった記事は質が高いというさきほどの仮説ともつながってくる。ではここで、単語ごとの平均執筆時間と高い TTR にどういった関連性があるのかどうか、執筆時間を正規化して確認してみよう。
 
 * * * * *
 
-#### 7 | Average TTR per Drafting Time {#672e .graf--h4 .graf--first name="672e"}
+#### 7 | 執筆時間ごとの平均 TTR
 
-Here’s the average TTR minute per drafting minute, a sort of ROI on drafting time.
+以下のグラフは執筆時間ごとの平均 TTR（執筆時間に対する ROI ともいえる。）を示している。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*k6MD_5LohhvmU7_48WZa3g.png)
 
-We still see the same pattern, but it’s less pronounced. Compared with the original chart, normalizing for drafting time removed about one third of the peak vs. off-peak difference.
+ここでも傾向は変わらないが、これまでほどはっきりはしていないようにも見える。執筆時間を正規化した結果、最初に挙げたチャートと比べてピーク時と非ピーク時の差異が3分の1ほど減少したのがわかる。
 
-Drafting time isn’t the only proxy for “quality,” though. Another possibility is that when authors write great content, they start building up a following.
+とはいえ、執筆時間だけで「品質」が測れるわけではない。他にも考慮すべきことはある。具体的には、執筆者がいい記事を書くようになると、徐々にファン（フォロワー）の数が増えていく、ということだ。
 
 * * * * *
 
-#### 8 | Average Followers {#46dc .graf--h4 .graf--first name="46dc"}
+#### 8 | 平均フォロワー数
 
-For every post published, here are the average number of followers that the author has on Medium.
+ではここで、執筆者の Medium 上のフォロワー数を記事ごとにプロットしたグラフを見てみよう。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*xoLydIOfzfqShpQo5wI2iQ.png)
 
-Although clunkier, the same pattern is still there; authors who publish during peak times tend to have about twice as many followers on average. We can normalize for this.
+かなりいびつなグラフではあるが、これまでと同じ傾向がまだ残っていると言っていいだろう。ピーク時に記事を公開する執筆者のフォロワー数は、平均と比べて2倍程度であった。これも同じように正規化してみよう。
 
 * * * * *
 
-#### 9 | Average TTR per Follower {#57be .graf--h4 .graf--first name="57be"}
+#### 9 | フォロワーごとの平均 TTR
 
-Here’s the total TTR per follower of the author.
+執筆者のフォロワー1人あたりの TTR を以下のとおりグラフ化した。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*z29dT7uBTANgR8gWOX7WRQ.png)
 
-Finally we have broken the pattern! The followers appear to drive most of the original pattern. Still, the TTR seems to consistently dip during off-peak hours. Let’s try accounting for drafting time too.
+これまでの傾向がここでようやっと崩れることになる。つまり、最初のグラフで示した傾向の元となっていたのはフォロワー数だということだ。一方、TTR のほうは非ピーク時になると必ず落ち込んでいる。執筆時間も加味するとどうなるかも確認してみよう。
 
 * * * * *
 
-#### 10 | Average TTR per Follower, per Drafting Minute {#7211 .graf--h4 .graf--first name="7211"}
+#### 10 | フォロワー別執筆時間ごとの平均 TTR
 
-Here’s the full normalization, taking the average TTR per follower and dividing it further by drafting minute.
+フォロワー別の平均 TTR を執筆時間で割った結果（完全正規化状態）が以下のグラフだ。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*3xNreAi1dIrS1Tpt0IBkug.png)
 
-Now the peak vs. off-peak is fully removed, and we have our answer!
+ピーク時と非ピーク時の差がなくなった。これこそが冒頭に挙げた質問に対する答えだ。
 
-> After normalizing for the number of followers and the time spent drafting, there is no pattern between publish time and total TTR.
+> 結論：フォロワー数と執筆時間を正規化した結果、記事の公開時間と TTR の間には相関性がないことがわかった。
 
 * * * * *
 
-#### So what’s going on? {#ebd5 .graf--h4 .graf--first name="ebd5"}
+#### 実際のところ、なにが起こっているのか {#ebd5 .graf--h4 .graf--first name="ebd5"}
 
 \
 
-On average, it’s true that posts published during peak hours (6am — 3pm PST on weekdays) tend to perform better. But these posts are also different:
+押しなべてみれば、ピーク時（太平洋標準時で平日の午前6時から午後3時）に投稿された記事のほうがいい数字が出るというのは間違ってはいない。だが、そういった記事には別の特徴もある。具体的には
 
--   Peak-time posts tend to be longer
--   Peak-time posts tend to take more time to write (per *word)*
--   Peak-time posts tend to have authors with more followers
+-   ピーク時に投稿される記事は長文であることが多い。
+-   ピーク時に投稿される記事は書きあげるのにより時間がかかることが多い（1語1語に時間がかかる）。
+-   ピーク時に投稿される記事を書く執筆者はより多くのフォロワーがいることが多い。
 
-So these are higher-effort posts with authors who interest more people. In other words, they’re probably higher quality. After normalizing for these factors, we find that the publish time no longer makes a difference.
+つまり、これらの記事には多くの労力が注がれており、かつ執筆者は大勢の関心をひくことができる人たちだったのだ。記事の質も他と比べればきっと高いのだろう。様々な要因を正規化した結果、公開日時が意味を持たないことがはっきりした。
 
-So, back to the original question — when is the best time to publish? It doesn’t matter!
+では最後に、元の質問に戻ろう。「いつストーリーを公開するのが一番いいですか？」いつだっていいよ！
 
-### What really matters is writing good stuff and, in turn, building a following. {#8ce5 .graf--h3 .graf--last name="8ce5" data-align="center"}
+### なにより大事なのはいい文章を書くことと、それをきっかけにしてフォロワーを増やしていくことだから。
