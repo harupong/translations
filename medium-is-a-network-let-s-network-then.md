@@ -1,20 +1,20 @@
-Medium is a Network. Let’s Network Then! {#d168 .graf--h2 .graf--first name="d168"}
+Medium はネットワークなんだから、みんなつながればいい
 ----------------------------------------
 
-### *Maybe instead of bitching about how it doesn’t help us promote our work?* {#46ff .graf--h3 .graf--last name="46ff"}
+### *「自分たちの取り組みをうまくプロモーションしてくれないんだよね」なんてぼやいてるよりも、そっちのほうがいいでしょ？
 
 * * * * *
 
-#### There’s been a very interesting meta-conversation on Medium going on recently. Roughly it falls into one of these two categories: {#b076 .graf--h4 .graf--first name="b076"}
+#### Medium についてとっても気になる「メタ」なやりとりを最近よく目にします。おおまかにわけると、そういったやりとりの内容は以下の2つのいずれかです。
 
-1.  [What is Medium?](https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15) [A publishing tool or a network?](https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2) A place for the best thoughtfully crafted long-form, for expressing oneself in any way possible, for [people interacting in the context of written content](https://medium.com/@traceypharoah/is-medium-ready-to-embrace-social-change-e3c0474287c3), or maybe — all of those things? How to create a [community](https://medium.com/message/writing-on-medium-88a5e99d86c9?source=has-recommended) here?
-2.  What is Medium’s role? Does it provide us with a cute editor and clean, distraction free design and we (writers) need to work for the exposure completely on our own? Or maybe Medium should [help us a little (or a lot)](https://medium.com/@saulofhearts/why-medium-needs-to-engage-the-middle-ground-7b02d4b7c921) to encourage writers who don’t have a big audience yet?
+1.  [Medium ってなんなの？](https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15) [なにかを発表するためのツール、それともネットワーク？](https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2) じっくりと推敲された長めでよい文章が集まる場。自由に自己表現できる場であり、[文章をとおしてやりとりする人々のための場](https://medium.com/@traceypharoah/is-medium-ready-to-embrace-social-change-e3c0474287c3)であり......それらすべてを兼ね備えた場なのかもしれません。ここでコミュニティを作るにはどうすればいいでしょうか。
+2.  Medium の役割とは？よくできた編集ツールとすっきりしたデザインの Web ページは Medium が用意してくれるから、記事の露出・拡散は書き手が自分で取り組んでね、という話なのでしょうか。それとも、読んでくれるファンが少ない書き手のために、Medium も[そういった部分でなにか（あるいはあれこれ）協力](https://medium.com/@saulofhearts/why-medium-needs-to-engage-the-middle-ground-7b02d4b7c921)してくれたほうがいいのでしょうか。
 
-These two are of course connected in many ways. I am still not sure what Medium is, as I see it a work in progress — not only code-wise, as it also develops in public awareness.
+もちろん、この2つははっきりと区別できるわけではありません。私自身、Medium がなんなのか決めかねています。まだまだ Work In Progress、未完成だと思っているからです。裏側を支えるプログラムに限らず、人々が Medium に対していだくイメージもまた、いまだ未完成なのです。
 
-#### Medium will be what we, the users, will do with it. {#8c92 .graf--h4 name="8c92"}
+#### Medium は、われわれユーザーがそれをどう使うかによって変化していくでしょう。
 
-Personally, I enjoy most the “not necessarily long-form, but definitely thoughtful, important, interesting, why not funny, **content** PLUS an **interactive discussion**” vision. I am already addicted to Medium. It is the second place I go online in the morning (first is my email account, where I find the daily newsletter & usually can’t/won’t help myself but click on some interesting title), I read thoroughly 2–3 good articles a day and scan many more. Recently I’ve started to also fancy interaction. I write responses and they seem to receive more attention (recs & follows) than my “regular” posts, without me even lifting a finger after I wrote them. I get excited when I can add something, comment on, share my knowledge in responses or notes. It feels like **contribution**, not *just a comment*.
+私が Medium で一番楽しみなのは、「必ずしも長文ではないけれど、実によく考えぬかれていて、興味深くもあり、時にはおもわず笑ってしまいそうになる**コンテンツ**と、**そこから生まれる人々のやりとり**」という見方です。すでに Medium にどっぷりハマっていて、毎朝ネットにつなぐと2番めにチェックするのが Medium になっています（1番はメールです。Medium から毎日届く要約メールを眺め、おもしろそうなタイトルをあれこれクリックしています）。だいたい1日あたり2～3の良記事を読み、その他多くにもざっと目を通しています。最近は、記事から生まれるやりとりもおもしろくなってきました。記事に書いたレスポンスの注目度（リコメンド数やフォロー数）は、「私自身が書いた」記事よりも高いようです。レスポンスの場合、書き終えたあとはまさに指一本触れないくらい何もしてはいませんが、注目度が高くなります。誰かの記事にレスポンスやノートの形でなにかを追記したり、知っていることを共有できたりするのがとても楽しいのです。なんらか**貢献**できている感じがしますし、「ただのコメント」には収まらない魅力があります。
 
 Yes, I wish my posts were getting more exposure. I have no brand, I don’t have a startup, I’m sometimes a little shy (didn’t have the balls to propose my work to any of the publications yet), but I’ll work my way to it, I know. I did that during the 9 years of writing a professional blog in my mother tongue. I can do it now. It would be great if Medium helped me with that, however, I feel the potential it gives me now.
 
