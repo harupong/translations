@@ -14,24 +14,24 @@ Medium はネットワークなんだから、みんなつながればいい
 
 #### Medium は、われわれユーザーがそれをどう使うかによって変化していくでしょう。
 
-私が Medium で一番楽しみなのは、「必ずしも長文ではないけれど、実によく考えぬかれていて、興味深くもあり、時にはおもわず笑ってしまいそうになる**コンテンツ**と、**そこから生まれる人々のやりとり**」という見方です。すでに Medium にどっぷりハマっていて、毎朝ネットにつなぐと2番めにチェックするのが Medium になっています（1番はメールです。Medium から毎日届く要約メールを眺め、おもしろそうなタイトルをあれこれクリックしています）。だいたい1日あたり2～3の良記事を読み、その他多くにもざっと目を通しています。最近は、記事から生まれるやりとりもおもしろくなってきました。記事に書いたレスポンスの注目度（リコメンド数やフォロー数）は、「私自身が書いた」記事よりも高いようです。レスポンスの場合、書き終えたあとはまさに指一本触れないくらい何もしてはいませんが、注目度が高くなります。誰かの記事にレスポンスやノートの形でなにかを追記したり、知っていることを共有できたりするのがとても楽しいのです。なんらか**貢献**できている感じがしますし、「ただのコメント」には収まらない魅力があります。
+私が Medium で一番楽しみなのは、「必ずしも長文ではないけれど、実によく考えぬかれていて、興味深くもあり、時にはおもわず笑ってしまいそうになる**コンテンツ**と、**そこから生まれる人々のやりとり**」という方向性です。すでに Medium にどっぷりハマっていて、毎朝ネットにつなぐと2番めにチェックするのが Medium になっています（1番はメールです。Medium から毎日届く要約メールを眺め、おもしろそうなタイトルをあれこれクリックしています）。だいたい1日あたり2～3の良記事を読み、その他多くにもざっと目を通しています。最近は、記事から生まれるやりとりもおもしろくなってきました。記事に書いたレスポンスの注目度（リコメンド数やフォロー数）は、「私自身が書いた」記事よりも高いようです。レスポンスの場合、書き終えたあとは文字通り「指一本触れない」くらい何もしてはいませんが、注目度は高くなるようです。誰かの記事にレスポンスやノートの形でなにかを追記したり、知っていることを共有できたりするのがとても楽しいのです。なんらか**貢献**できている感じがしますし、「ただのコメント」には収まらない魅力があります。
 
-Yes, I wish my posts were getting more exposure. I have no brand, I don’t have a startup, I’m sometimes a little shy (didn’t have the balls to propose my work to any of the publications yet), but I’ll work my way to it, I know. I did that during the 9 years of writing a professional blog in my mother tongue. I can do it now. It would be great if Medium helped me with that, however, I feel the potential it gives me now.
+もちろん、自分が書いた記事がもっと注目されればいいのに、とは思います。とはいえ、ブランドがあるわけでもなく、スタートアップの創業者でもありません。ものおじしてしまうことも少なからずあります（自分が書いた記事をパブリケーションに掲載するようお願いできたこともないくらいなのです）。ですが、いつかはきっとできると思っています。9年ものあいだ母国語でプロとしてブログを書いていたときは、掲載を依頼できていたのですから。今ならきっとできるはずです。あとは、Medium がその一助になってくれれば最高なんですけどね。その可能性は十分あると思っています。
 
-#### What I do with this potential is my job only. {#c34f .graf--h4 name="c34f"}
+#### この可能性をどう活かすかは私次第。
 
-My only fear is that posts which authors get paid (one way or another, hired by Medium itself or by their company), posts of known brands and of highly popular publications will push my stories off the main feed for my actual and potential followers. But well, this is how it works everywhere, doesn’t it?
+ひとつだけ気になっているのは、プロが（Medium に雇われているにせよ、所属する企業から給料をもらっているにせよ）お金をもらって書いた記事や有名なブランドや大人気のパブリケーションの記事のせいで、私の（現時点と将来の）フォロワーが目にする Medium の配信内容に私の記事が含まれなくなってしまうことです。そうはいっても、これって Medium に限った話ではないんですよね。
 
-So, my conclusion is: let’s do it.
+ということで、もう決めました。やってみるわ、ってね。
 
-Let’s push those recommend buttons and put that tiny effort to have a comment go with it. I jump with joy when someone does that with my stories.
+リコメンドボタン、どんどん押してみましょう。せっかくだからコメントも添えてね。自分が書いたストーリーにコメント付きのリコメンドがつくと、それはもう、飛び上がりたくなるほど嬉しいものですよ。
 
-Let’s create notes, to chime in, to appreciate a thought, to share one of our thoughts. *(Medium, could you please create a toggle button to open/collapse all the notes in a post at once, so that I don’t have to click my way through them?)*.
+ノートもどんどんつけてみましょう。同意を示したり、自分の考えを著者に伝えてみてください。（Medium へのお願い：ノートの表示/非表示を一括で切り替えるためのボタンをどうかつけてください。1つずつクリックして中身を確認するのはつらいです）。
 
-Let’s join the conversations, write responses, short or long.
+会話に参加しましょう。どんどんレスポンスをつけてください。長文短文、どちらも歓迎です。
 
-Let’s make friends here! *(Medium, could you please add a direct messaging option, so I could write someone something like “hey, love your work, just wanted to let you know I’m happily following you from now on” or “hey, maybe we could collaborate?” Why send me to Twitter to do that?)*
+Medium 上で、友達の輪を広げていきましょう！（Medium へのお願い：ダイレクトメッセージをやりとりできる機能をどうか追加してください。そうすれば 「あなたの文章、とてもいいですね。さっそくフォローしました！」とか、「なにか一緒にしたいですね！」といったやりとりが Medium 上で出来るようになるのです。わざわざ Twitter にいってやりとりするなんておかしな話でしょ？）
 
-Let’s share the stories we like, help other writers reach a wider audience, it doesn’t take much — press the share button, send it to Twitter or FB. We can help each other a lot, easily.
+気に入ったストーリーはどんどんシェアしましょう。より多くの読者と書き手がつながることになります。どうすればいいかって？感嘆です。シェアボタンをクリックして、Twitter や Facebook に投稿すればいいのです。そうすれば、簡単に助け合えるわけです。
 
-#### Let’s network, guys. {#9690 .graf--h4 .graf--last name="9690"}
+#### さあ、みんなでつながりましょうよ。Let’s network, guys. {#9690 .graf--h4 .graf--last name="9690"}
