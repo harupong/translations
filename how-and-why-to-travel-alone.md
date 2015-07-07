@@ -1,131 +1,130 @@
 https://medium.com/@alexschiff/how-and-why-to-travel-alone-595e980714e6
 
-How (And Why) To Travel Alone {#363d .graf--h2 .graf--first name="363d"}
+一人旅を楽しむ方法（あるいは、なぜ一人旅がオススメなのか）
 -----------------------------
 
-You better get good at taking selfies.
+結論：自撮りの練習はお早めに。
 
 * * * * *
 
-Earlier this year, I traveled alone across Europe. In some cities I knew a friend from college, in others perhaps a friend of a friend, but for all intents and purposes I wandered around by myself with no plan for about a month. Even for someone a close friend recently referred to as “the most extroverted person I know,” it was one of the best months of my life.
+今年の前半、ヨーロッパ全土を巡る一人旅をしました。訪れた街によっては、学生のころの友達がいたり、友達の友達がいたりすることもありました。とはいえ、ほとんどは「いかにも一人旅」といった具合で、計画も立てずに自分ひとりで1ヶ月ほどあちこち出歩いていました。仲のいい友達によると、私自身は「知り合いのなかでも一番社交的な人物」だそうですが、そんな自分にとってもその1ヶ月は人生で最高のひと月になりました。
 
-Both at home and abroad, though, the idea of extended, solo travel seems oddly foreign. Common reactions to my travel plans included:
+一方、長期にわたって一人旅をするという発想は、周りの人たちや渡航先で知り合った人たち、どちらにとってもなじみの薄いものだったようです。計画を知った人たちのリアクションといえば、
 
-“Wow! Good for you to be able to do that!”
+「いやー、それはいいね。きっと君のためになるよ」
 
-“Don’t you get *lonely*?”
+「*さびしく*なったりしない？」
 
-“You mean, you’re going do all these things…by yourself?”
+「それ全部、1人でやるの？本気？」
 
-Yes. Traveling by myself was the most thought-provoking, battery-resetting thing I’ve ever done. Here’s how to do it right, and why it’s so much more impactful than traveling with other people (even people you like).
+などなど。実際、一人旅を終えてみると、これまでに自分がしてきたことのなかで一番刺激的で、何よりも自分をリフレッシュさせ、「充電」してくれるものだったことに気づきました。これから、そんな一人旅を楽しむ方法を説明しようと思います。同伴者がいる旅行よりも一人旅のほうがずっと心に残る理由も、一緒に説明できればと思っています。親しい人たちとの旅行よりも、きっとインパクトが強くなるはずですよ。
 
 ![](https://medium2.global.ssl.fastly.net/max/800/1*Z8hws9rNsti64ZXcxjRsKQ.jpeg)
 
-I might as well have titled my photo album “Schiff’s European selfie tour”.
+旅行のアルバム、「Schiff のヨーロッパ自撮りツアー」ってタイトルにしたほうがよかったかも。
 
-### Whatever The Fuck Time {#b59c .graf--h3 name="b59c"}
+### Whatever The Fuck、なんでもあり時間 {#b59c .graf--h3 name="b59c"}
 
-It is *only* through solo travel that you can truly experience something I call “whatever the fuck” (WTF) time.
+一人旅を通じてしか経験できないものがあると思っていて、私はそれを「Whatever the fuck」（WTF、なんでもあり）時間と呼んでいます。
 
-Be it school, work, family, or something else, we all have obligations — things we need to do to avoid bad things from happening. It doesn’t mean we don’t enjoy those things, and it doesn’t mean we’re “trapped” in some unfulfilling nightmare. It just means our lives are intertwined with other people, and our actions have consequences. Obviously, getting away from these obligations is good for the soul, and pretty much everyone recognizes time off is a basic human necessity from time to time.
+学校・職場・家庭……とにかく、いたるところで誰もが義務と向き合っています。そうすることによって、最悪の事態が現実にならずに済んでいるわけです。ただ、義務と向き合う＝つらい、というわけでは必ずしもなく、楽しい場合もあります。うんざりする悪夢のような状況から抜け出せなくなっている、というわけでは決してありません。自分の生活はまわりの人と結びつくことでなりたっていて、すべては自らの行動の結果だ、というだけのことです。とはいえ、そういった義務を避けることで人は落ち着きを取り戻せるわけですし、ときどき1人になることは誰にとっても必要不可欠なことだ、というのはみなが認めるところだと思います。
 
-But as much as we may enjoy spending time with friends and family, traveling with other people adds a layer of complication and compromise to everything. Not only do you have obvious stressors like competing preferences, travel styles, etc., but at every turn there’s a hidden pressure to coordinate your plans — or at least tell people where you are. Without even realizing it, you often make subtle but very real sacrifices to keep a similar schedule and stay together.
+もちろん、友達や家族と一緒に過ごす時間もとても楽しいのですが、こと旅行に関しては、一緒に行動することでむだにややこしくなったり、妥協を強いられることになりがちです。例えば、好みが食い違ったり旅行の仕方が合わなかったりするとそれはもうイライラしてしまうわけですが、それ以外にも見過ごせない点があります。それは、旅行中なにかを決めるたびに、「計画を相手に合わせなきゃ」という意識が知らぬ間に働いてしまう、という点です。仮にそうならずとも、「次にどうするかを相手に伝えなきゃ」というプレッシャーが旅行中はきっとあるでしょう。旅行の最中は気づいていないかもしれませんが、些細ではあるけど無視はできないような犠牲や妥協を重ねていくことで、なんとか旅程を合わせて一緒に行動しているはずなのです。
 
-It’s not that this is the wrong way to travel — some of my fondest memories are road trips with friends and vacations with family — you’re just not doing *whatever the fuck you want*. To give an operational definition:
+とはいえ、なにも一緒に旅行することが間違いだと言いたいのではありません。実際、友達との遠出や家族旅行のおかげで、大切な思い出がいくつもできました。ただ、どうしても *やりたいこと、なんでもあり* というわけにはいかなくなってしまいます。ここで一旦、言葉の定義をしておきましょう。
 
-> WTF time (a.k.a., “whatever the fuck time): a prolonged period of time in which you have have **absolutely no other concern besides your own personal, present happiness**.
+> WTF タイム（whatever the fuck time の略。なんでもあり時間）：**現時点での自分自身の個人的な幸せだけを気にしていればいい**、ある程度まとまった時間のこと
 
-It means you sleep when you’re tired and eat when you’re hungry. It means you don’t care about drinking too much because you don’t have any plans it will destroy tomorrow. It means you spend *all day* in museums, taking your time to read the signs that interest you, if that’s what you want to do. It means you wander for hours just because a building off in the distance looks interesting. It means you go to a new city in a different country just because the forecast is sunny. It means you can say yes to literally anything and everything that strikes your fancy without feeling like you’re “splitting off” from the group. You can do it in your style, on your schedule, and, most importantly, without having to “check” with anyone else.
+WTF タイムの間は、疲れたときに寝て、お腹が空いたら食べればいいのです。飲み過ぎかどうかを気にする必要もありません。翌日の計画はないので、そうしたところで何一つ影響はないからです。もしそれがお望みであれば、一日中美術館巡りをして、気になる展示の説明文をじっくり読んでみてもかまいません。「向こうに見えるあの建物、なんか気になるなぁ」そんな理由で何時間も散歩したっていいでしょう。今いるのとは違う国で、一度も行ったことのない街を訪れる理由が、「事前に見た天気予報が快晴だったから」なんて場合もあるでしょう。気の向くままに、思いついたことをどんどん実行しても、グループから外れたような気分になることもありません。やりたいことをやりたいように、やりたいタイミングでやればいいですし、（一番大事な点ですが）事前に誰かに確認しなくてもいいんです。
 
-It means you can be **existentially care-free** in a way that simply isn’t possible when traveling with others. WTF for too long and you’ll get lonely and become starved for meaning, but the right amount resets your batteries in a way you won’t have believed was possible.
+つまり、**ただただ無頓着** でいてかまわない、ということなのです。一人旅でなければありえないくらい、無頓着でかまいません。ただし、WTF タイムはあまりに長い時間過ごすと寂しくなって人生の意義を追い求めるようになってしまう諸刃の剣です。気をつけてくださいね。正しい用量であれば、信じられないくらい効果的にあなた自身の「バッテリー」をリフレッシュし充電してくれるはずです。
 
-And it means you don’t have to shave.
+それに、ヒゲを剃る必要もないですし。
 
 ![](https://medium2.global.ssl.fastly.net/max/800/1*s-rjv10MOdunJHyNzAn2yg.jpeg)
 
-A hairy face is a free face.
+髭もじゃは自由の象徴だ！なんて。
 
-Disclaimer: The “right dose” of WTF varies from person to person and how stressed out you’ve been. I ran my own startup for the past 4 years, so I needed a long time to fully reset.
+お断り：WTF の用量には、どれだけのストレスにさらされてきたかによって個人差があります。私の場合は自分で立ち上げたスタートアップを4年ほど経営していましたので、長い時間をかければなんとか完全にリフレッシュできるような状態でした。
 
-### Say Yes To Serendipity, and to Strangers {#0b75 .graf--h3 name="0b75"}
+### セレンディピティさんこんにちは、見知らぬみなさんもこんにちは
 
-Somewhat related to WTF time is the role of serendipity. When you travel by yourself, random, amazing opportunities present themselves much more often. While this is partially due to the fact that you have no one to coordinate with (i.e., you’re in WTF mode), it’s also a function of basic probability.
+WTF タイムについて考えるのなら、セレンディピティの存在は無視できません。一人旅をしていると、思いがけなかったような嬉しい機会にしょっちゅう出くわすことになるでしょう。もちろん、誰とも一緒に行動しておらず WTF モードなのでそうなるわけですが、一方でそれは蓋然性の産物でもあります。
 
-When I was in London, I wandered into an African restaurant called Souk. The waitress put down a basket of bread on my table, so, thinking it was mine, I started eating it. Turns out, it was for the couple next to me — a fact I realized when we made awkward eye contact with a piece of their bread in my mouth. Day 2 in Europe and I was already “that American asshole.”
+1つ実例を挙げましょう。ロンドンを旅行中に Souk というアフリカ料理のレストランにぶらっと入ったときの話です。店の人が私のテーブルにカゴいっぱいのパンを置いていったので、「あ、このパンは自分のなんだな」と思って、それを食べ始めました。ですが、そのパンは実は私のものではなく、隣の席の御夫婦のものだったのです！2人が注文したパンを私がもぐもぐと食べている最中に目線が合って気まずい雰囲気……そこではじめて気がつきました。ヨーロッパ旅行2日めにして、「これだからアメリカ人は！」案件をやってしまったわけです。
 
-About 8 hours later, I was in a VIP suite watching alt-J with my newly adopted European parents, Andy and Anita.
+で、その8時間後、私は どういうわけか Alt-J というロックバンドのコンサートを VIP 席で見ていました。ヨーロッパにおける両親的な存在になってくれたばかりの Andy と Anita と一緒に。
 
 ![](https://medium2.global.ssl.fastly.net/max/800/1*5YkrVgdyjYe29zDIVjuTIQ.jpeg)
 
-alt-J in London
+alt-J のコンサート（ロンドンにて）
 
-What happened? Funny enough, stealing their bread was a great conversation starter. After trading life stories for the duration of the meal, they asked if I was busy that night. It turns out they had an extra ticket to go see alt-J, whose London show I was dying to go to but ended up missing the sale period. I exclaimed, “You’re joking.” To which they responded, “Feel free to take it, even if you can’t come. It’s a VIP suite though — hope that’s okay.”
+「なにそれっ！？」って感じですよね。そう、おかしな話なのですが、2人のパンを食べてしまったことをきっかけに始まった会話がすごく盛りあがったのです。食事のあいだは、互いの生い立ちについてずっと話していました。そして、食事が終わったとき、「このあと予定はあるの？」と尋ねられたのです。話を聞いてみると、なんとそのあとに予定されていた Alt-J のコンサートチケットが1枚余っているというのです。どうしても行きたかったのに、販売期間中に買えなかったコンサートのチケットが！「いやいや、冗談やめてくださいよ」思わず声が大きくなります。2人の返事はこうでした。「遠慮せずもらってよ。来れなくても気にしなくていいからさ。VIP 席が問題じゃなきゃいいんだけど」
 
-This kind of thing doesn’t**really happen when you’re traveling with others. First, the likelihood of you spending the entire meal talking to strangers rather than each other is tiny, because you’re not as desperate for human attention. Second, the likelihood that a stranger you chat up has an extra ticket to a concert you’ve been dying to attend is already minuscule — the likelihood that they have two (or more) might as well be zero.
+こんなこと、誰かと旅行していたらありえないことです。まずもって、一緒に旅行している相手をさしおいて赤の他人と食事の最中ずっと話し込むなんて想像できません。同伴者がいれば、そこまでして人とのやり取りを追い求めることがないからです。さらに、どうしても行きたかったコンサートのチケットをその赤の他人が1枚余分に持っている可能性はといえば、もう奇跡といっても大げさではないでしょう。2枚以上余っている可能性なんて、ほぼゼロなわけです。
 
-It’s not that you’re luckier when you travel by yourself. It’s simply that the probability of a lucky event intersecting with your path in a way that you can actually take advantage of it is much higher. Moreover, because you have no “fallback” for human contact, you start and continue more conversation with strangers (the harbingers of serendipity).
+ただし、1人で旅行したほうがラッキーになれるよ、と言いたいわけではありません。そうではなくて、ラッキーなことが手の届くところに転がり込んできて、かつ実際に恩恵にあずかれる可能性は一人旅のほうがずっと高い、ということです。しかも、誰かと話したくなったときに便利な「話し相手がいないときのあの人」が一人旅ではいないので、見知らぬ人にもどんどん話しかけ、会話を続けることになります（セレンディピティの前触れ、ともいえますね）。
 
-Whether you’re at home or abroad, talk to the people around you — you never know where a conversation might lead.
+滞在場所が母国であれ外国であれ、周りの人に話しかけてみてください。思いもつかなかった方向に会話が発展するかもしれませんよ。
 
-### Thinking Time {#41cc .graf--h3 name="41cc"}
+### 考える時間
 
-At least in American culture, shared silence is typically frowned upon as *awkward*. We’re perfectly content co-habitating a subway car in total silence with strangers, yet prolonged silence with people we know somehow makes us uncomfortable.
+少なくともアメリカにおいては、誰かと一緒にいるのに会話もせず静かな状態を保つのは好ましいとは受け止められません。赤の他人と乗り合わせることになる地下鉄がしーんとしていても一切気にならないのですが、知り合いと一緒にいるときに沈黙が続くと、落ちつかずそわそわしてしまいます。
 
-When you travel with others, you obviously tend to talk with them quite a bit. This isn’t a bad thing — communication strengthens bonds, and everyone brings a unique perspective to the conversation. However, in the pressure to externalize your thoughts, you don’t really get a chance to reflect internally. But if there’s any time when you should be thinking, it’s when you’re experiencing new places, cultures, and history for the first time.
+複数人で旅行していると、当然のこととして同伴者とはたくさん話すことになります。それを悪くいうつもりはありません。コミュニケーションをとることで相手と親しくなれますし、参加する人が増えれば会話は多様性が増しておもしろくなるからです。一方、考えをまとめて声にしなきゃ、というプレッシャーがかかると、自分1人でじっくり考えているひまはなくなってしまいます。行ったことがない場所を訪れるとき、触れたことのない文化を体験するとき、知らなかった歴史を学ぶとき……いずれも、1人でじっくり考える絶好の機会ではあるのですが。
 
-Traveling alone for an extended period means you spend a lot of time inside your own head. As you float around cities and countries, your mind also wanders — thinking, reflecting, analyzing, observing, and drawing comparisons about whatever happens to be interesting at that moment. It’s not that we don’t spend time thinking when we’re with other people, it’s that our thinking is guided by the conversation. Alone, bombarded with new stimuli at every turn, your mind can truly appreciate the juxtaposition of people, places, and things.
+長期にわたって1人で旅行するということは、1人であれこれ考えながら過ごす時間が多くなる、ということでもあります。あちこちの街を行き来している間、あなたの考えもあちこちへ広がっていくのです。そのときどきで興味を引くことについて、考えて、振り返って、調べて、観察して、比較しているのです。では誰かと一緒にいるときには何も考えていないのか、というとそういうことではありません。そういったときは、会話の進む方向にそって考えが進んでいるのです。一人旅をしていて、いく先々で刺激の洪水に飲み込まれるような状況になってはじめて、訪れた場所・そこにいる人たち・目に止まったものの結びつきや関係性に気づけるのです。
 
-One day, while walking by French parents dropping off young children at school, I noticed that they watch their children run away from their arms with the same combination of pride and sadness in their eyes as mine probably did — shouting, “Behave for your teachers!” and “Have a good day!” (in French, obviously). The next, I was reading the tombstones of Egyptian pharaohs in the Louvre, boasting of conquests of people I’ve never heard of all in an attempt to convince their gods they’re worthy of entering the afterlife.
+例を挙げましょう。フランスの街を歩いていて、子供を学校まで送り届ける親御さんたちを見かけたときの話です。「先生のいうことを聞いていい子にするのよ！」「一日頑張ってね！」とフランス語で声をかけ、教室へと向かう子供たちを見つめる親御さんたちの視線は、誇らしくもありつつどこかさびしげでした。そして、そういった光景を見つめる私も、同じように誇らしくかつさびしげな視線で、この光景を見つめていたのです。その日は続いてルーブル美術館にいきました。お目当ては、当時の人々の挑戦を称えるファラオの墓石です。そこに刻まれた、「自分は来世に行くのに相応しい人物である」と無名の人たちが古代エジプトの神々を説得しようとする姿をとらえた文章を読んできました。
 
-Another day, I saw a guy and a girl on a blind first date hit it off, hang around for 3 rounds, and walk out of a South London pub arm in arm. Later that week, I found myself wandering around the steps of the Colosseum, where thousands of people watched men kill each other for sport.
+こんなこともありました。南ロンドンにあるパブで、初対面の男女の初デートの現場にいあわせたのです。2人は3杯ほどお酒を飲んだ後、手に手を取り合ってパブを出ていきました。続いて、その週の後半は、ローマにあるコロセアム（戦士同士の命がけの決闘をスポーツとして何千もの人が観戦した場所）の階段をいったりきたりして過ごしました。
 
-On Tuesday, I wandered through the caves of Europe’s most active volcano (Mount Etna). By Friday, I was listening to a Slovenian jazz group perform in Vienna.
+イタリア南部にありヨーロッパで一番盛んな活火山であるエトナ火山の洞窟を火曜日に散策し、金曜日にはオーストリアの首都ウィーンでスロヴェニア出身のジャズバンドの演奏に耳を傾ける。そんな風にしてすごした週もありました。
 
-Yet another day, I was hugging jumping up and down with strangers at a rugby match, with old Irish guys shouting, “*DESTROY HIS FUCKING LINEAGE!*” behind me.
+別の日に、ラグビーの試合を見にいったときのことです。見知らぬ人たちと抱き合って喜んでいたら、後ろの席にいた高齢のアイルランド人たちが「フランス人の血筋なんて根絶やしにしてしまえ！！」と叫んでいました。
 
 ![](https://medium2.global.ssl.fastly.net/max/800/1*XI-UHbiO9qWOdcSRaF8T8w.jpeg)
 
-Rugby Six Nations Ireland vs. France in Dublin
+ラグビーの大会シックス・ネイションズ。ダブリンでおこなわれたアイルランド対フランス戦
 
-The week prior, I felt my stomach sink instantly upon walking into an old building in Poland.
+実は、その前の週には、ポーランドにある古い建物に足を踏み入れてひどく気がめいる体験をしていました。
 
 ![](https://medium2.global.ssl.fastly.net/max/800/1*b5Muk8h0rK9rwvUROIRY5w.jpeg)
 
-These two furnaces incinerated the bodies of hundreds of thousands of people, where an incomprehensible number of lineages were *literally* *severed*at Auschwitz.
+この写真に写っている焼却炉で、何十万人分もの死体が燃やされたそうです。そう、ここアウシュビッツで、想像もつかないような数の血筋が、**実際に根絶やし** にされたのでした。
 
-A few days later, I sat for about 30 minutes staring at two walls stacked on top of each other. On the bottom was the remaining foundation of the SS building, where these atrocities were planned in the 1930's. At street level was a segment of the Berlin Wall, one of the 20th century’s most iconic examples of segregation, erected just 30 years later.
+それから数日後、片方がもう一方の上にくっつけられたような形で展示されていた2種類の壁（訳注：トポグラフィ・オブ・テラー）を30分ほど腰をすえて眺めてきました。下の方の壁は、1930年代に多くの残虐行為が計画されたナチス親衛隊本部、その基礎部分でした。そして、上の方の壁は、そのわずか30年後に建造されたベルリンの壁でした。20世紀における人種差別のもっとも象徴的な一例ともいえる建造物です。
 
-Spending that much time reflecting on the human condition isn’t for the faint of heart, but it’s good for you. You’re going to think about death. You’re going to think about your own insignificance. You’re going to think about how silly violence is. You’re going to think about how *literally nothing good*has ever come from walling people off from each other. Yes, you’ll think about how different certain parts of the world are, but more often you’ll find yourself marveling at how everyone is worried about the same mundane bullshit. You’re going to think about how incomprehensible and beautiful it is that the sum of everything humanity has ever created— all the buildings, people, languages, music, and politics — is because random organic compounds somehow combined into a prokaryote billions of years ago.
+人類が置かれている状況についてこういった形で時間をかけて考えてみることは、気弱な人にはおすすめできません。ですが、きっとためになるはずです。なぜなら、そうすることが、大切なことについて思いを巡らせることにつながるからです。具体的には、死、自分自身の存在の無意味さ、暴力のばかばかしさ、人々の間を壁で区切っても*なにひとついいことはない* ということなどが挙げられます。それに、地球上にはおよそ思いもつかないような状況にある地域があることにも気づかされますし、なにより、みんなの悩みがいかに取るに足らないかを知り、驚かされるはずです。何十億年も前、いくつかの有機物質がどういうわけか混ざり合ってできた原核生物がきっかけで今日の人類があり、そのおかげで数々の建造物や言語、音楽や政治といったものが生まれました。人類がこれまでに築き上げたそれらがいかに遠大で見事であるか、考えさせられることになるでしょう。
 
-Most importantly, you’re going to think deeply about whether or not you’re living your life meaningfully. That’s just where the mind tends to go when left to its own devices.
+一番重要なのは、自分の人生を有意義に過ごしているかどうか、じっくりと考えることになる、ということです。思うにまかせて考えを広げていけば、それはとても自然なことなのです。
 
-### Other Tips For Solo Travel {#8903 .graf--h3 name="8903"}
+### 一人旅のヒントあれこれ
 
-Convinced you should give solo wandering a try? Awesome. Here are some tips for how to take advantage of it:
+一人旅に出てみるべきだと気持ちが固まった？やりましたね。では、一人旅を楽しむためのヒントをいくつかお教えしましょう。
 
-​1) Stay at hostels with bars. They usually have the cheapest drinks in the city, and it’s way easier to meet people at hostels that have a bar where people hang out at night. You’ll meet really interesting people from all over the world. Especially Brazilians. Brazilians, you people are everywhere.
+1) バーがあるユースホステルに泊まりましょう。都市部で一番安くお酒が飲める場所ですし、みんなが夜に出かける場所でもあるので、誰かと知り合うのにはうってつけです。世界中の魅力的な人たちと知り合えるでしょう。特にブラジルの人たちと。世界中どこへいってもなぜか会えるんですよ、ブラジル人の皆さんとは。
 
-*“But aren’t hostels dangerous?!”*you protest.*“It’s a room full of strangers! And what about bed bugs?”*
+**「いやいや、ユースホステルはあぶないよ。」** そう言いたくなる気持ちもわかります。**「赤の他人だらけの大部屋に止まるんでしょ。ベッドにダニわいてそうだし。」**そういった声も聞こえてきそうです。
 
-Incidents happen, certainly, but just read the reviews on [Hostelworld](http://www.hostelworld.com) and you can avoid most sketchy places. Yes, you’ll stay in places that have bad electricity, or have weird characters, but I never felt unsafe. If that’s going to be an issue for you, you’re probably not going to feel comfortable traveling alone in the first place.
+もちろん、トラブルは起こります。だからこそ、[Hostelworld](http://www.hostelworld.com) のレビューをよく読んでください。危ない場所は避けられるはずです。そうしたって、電気周りが貧相だったり、うさんくさい表札があるところに泊まることにはなるでしょうが、実際に私自身は一度も危険だと感じませんでした。仮にそうすることが不安なら、あなたはそもそも一人旅には向いていない可能性だってあります。
 
-​2) [Hostelworld](http://www.hostelworld.com) is the best way to book hostels. In big cities, [TripAdvisor](http://www.tripadvisor.com) is the best way to find activities/attractions, but use [Yelp](http://www.yelp.com) to find food. When visiting small cities (like Catania), don’t trust Yelp (not enough ratings to be valid). Just Google “best restaurants in \<city\>”.
+2) ユースホステルを探すには [Hostelworld](http://www.hostelworld.com) が一番です。大都市では、[TripAdvisor](http://www.tripadvisor.com) を使えばアトラクション探しが捗るでしょう。ですが、こと食事に関してはそれらではなく [Yelp](http://www.yelp.com) を使ってください。ただし、イタリアのカタニアのような小さな街では、信ずるに足るほどの評価が集まっていないので、Yelp は使わないほうが無難です。「都市名 一番美味しいレストラン」でググッてみてください。
 
-​3) If you don’t have indefinite time, stay \~3 nights per city. This might just be my style, but two full days is enough to get a feel and do most of the touristy things you want to do.
+3) 時間に限りがあったとしても、同じ街に3日は滞在するようにしましょう。少なくとも自分の場合は、まる2日もあれば街の雰囲気を味わい、観光っぽいことも一通りできたと思います。
 
-​4) Don’t be stupid. Some places in the world are definitely not safe to travel alone, especially for women.
+4) 決して浮かれてはいけません。世の中には一人旅には向かない危険な場所があります。女性の場合はなおさらです。
 
-​5) Have a general idea of where you want to go, but don’t plan out more than a few days in advance. That way, you avoid being stuck somewhere, but you leave yourself plenty of optionality in case something sounds cool along the way.
+5) おおまかで構いませんので、どこにいきたいかは考えておきましょう。ただし、具体的な計画を立てるのは数日分にとどめてください。そうしておけば、一箇所にずっといつづけるはめにもならず、かつ選択肢をたくさん残しておけます。旅の途中でなにか面白そうなものをみつけたときに悩まずに済むはずです。
 
-​6) While you’re eating meals, try to read the news of that country. If you speak the language at all, try to read a print copy (I did this with Le Monde in Paris). If you don’t, load up a few articles from an English language version of the news on your phone when you’re somewhere that has wi-fi. It gives you a better perspective on what people are thinking about where you are.
+6) 食事中に、滞在している国のニュースを読んでみてください。現地語が少しでもわかるのなら、実際に新聞を読んでみるのがオススメです（私はパリで Le Monde 紙を読んでみました）。現地語に馴染みがないのなら、無線LAN が使える場所を見つけて、現地ニュースの英語記事をいくつかスマホで読んでみましょう。現地の人たちが気になっていることはなんなのか、よくわかるはずです。
 
-​7) If possible, schedule stops where you have a friend or two you can hang with — even if you haven’t seen them in decades. Unless they actively dislike you, people are usually thrilled to meet up with international travelers.
+7) 可能であれば、一緒に遊んでくれそうな知り合いがいる場所にも立ち寄ってみてください。何十年も会ってないって？気にすることはありません。よっぽど嫌われている場合は話が別ですが、そうでなければきっと大喜びでわざわざ海外から来てくれたあなたを歓迎してくれるはずです。
 
-​8) Splurge on food in Italy. Jesus Christ.
+8) イタリアではお財布の許す限り食べ歩きましょう。食の神様ありがとう！！
 
 ![](https://medium2.global.ssl.fastly.net/max/800/1*sRUO5a-2n8w3PVFRRGfxTw.jpeg)
 
-From Osteria Del Cavaliere in Rome. I nearly proposed to my waitress.
+ローマにあるレストラン Osteria Del Cavaliere で撮影。あまりにおいしすぎて、ウェイトレスに告白しそうになった。
 
-Need more recommendations? [Hit me up any time](mailto:alex@alxdschiff.com)!
-
+質問があれば、[いつでも連絡くださいね。](mailto:alex@alxdschiff.com)!
