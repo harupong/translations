@@ -1,37 +1,37 @@
-The Crossroads of Should and Must {#title .graf--h2 .graf--first name="title"}
+Should と Must の岐路に立つ
 ---------------------------------
 
-#### This is a story about two roads — Should and Must. It’s a pep talk for anyone who’s chosen Should for far too long — months, years, maybe a lifetime — and feels like it’s about time they gave Must a shot {#subtitle .graf--h4 name="subtitle"}
+#### これは、Should と Must、2つの道についてのお話です。何か月も、何年も、ひょっとすると生まれてからずっと……とにかく、Should をあまりにも長いあいだ選んできて、そろそろ Must を選んでみてもいいかもしれない、と感じている人たちへの激励になればと思います。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1200/1*ZNahGS7EwPcevYHO_VutiA.png)
 
-There are two paths in life: Should and Must. We arrive at this crossroads over and over again. And each time, we get to choose.
+人の一生は、ShouldとMustの連続です。どちらか一方を選ぶ岐路に何度も何度も立つことになり、毎回、どちらを選んでもいいことになっています。
 
-Over the past year I’ve chosen Must again and again. And it was petrifying. And at times it was dark. But I would never, ever, trade this past year for anything. This essay is my three biggest takeaways from the experience. It’s for anyone who is thinking of making the jump from Should to Must. Anyone looking to follow the energy deep within their chest but aren’t quite sure how.
+私は、この一年ほど、徹底してMustを選んできました。And it was petrifying. ときには、先の見えない闇のようでした。ですが、それは私にとってかけがえのない一年でもありました。このエッセイでは、一年間の経験を通じて私が得た3つの教訓をご紹介します。ShouldからMustへ思い切って踏み込んでみようと考えている人や、「胸の奥深くにひそむ強い思いを追いかけてみたい！でもどうしていいかわからない……」という人に、ぜひ読んでいただきたいと思います。
 
-Should is how *others* want us to show up in the world — how we’re *supposed* to think, what we *ought to* say, what we *should* or *shouldn’t* do. It’s the vast array of expectations that others layer upon us. When we choose Should the journey is smooth, the risk is small.
+なお、ここでいうShouldとは、私たち1人1人に対する他者の期待を指します。どのように考えるべきか、どういった内容の発言をすべきか、なにをして、なにをしないべきか……幾重にも連なる他者からの期待が、私たちにはかかっているのです。期待に応えてShouldを選べば、行く末は安泰で、危険は小さくなります。
 
-Must is different—there aren’t options and we don’t have a choice.
+一方、Mustは随分と違ってきます。選択肢は1つだけで、選り好みはできません。
 
-Must is who we are, what we believe, and what we do when we are alone with our truest, most authentic self. It’s our instincts, our cravings and longings, the things and places and ideas we burn for, the intuition that swells up from somewhere deep inside of us. Must is what happens when we stop conforming to other people’s ideals and start connecting to our own. Because when we choose Must, we are no longer looking for inspiration out there. Instead, we are listening to our calling from within, from some luminous, mysterious place.
+なぜなら、Mustとは自分そのものであり、自ら信ずるところであり、一切を忘れてひとりありのままでいられるときに取り組むことだからです。それはまさに本能であり、自ら強く望んでいるものごと・場所・アイディアや、胸の奥深くからわき起こる直感なのです。そして、他者からの期待に合わせるのをやめて自らの期待や希望と向き合うことで、Mustは現実になります。なぜなら、Mustを選んだ以上、外野からの声はもう役にたたないからです。代わりに、自分の内側、大切な場所から聞こえてくる声に耳を傾けることになるでしょう。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*R2DFlgRTH_ToSf4QnEEVmA.png)
 
-Must is why Van Gogh painted his entire life without ever receiving public recognition. Must is why Mozart performed Don Giovani and Coltrane played his new sound, even as the critics called it ugly.****Must is why that lawyer in his thirties spent three years writing his first novel only to be rejected by three dozen publishers. He honored his calling, eventually received a “yes,” and that is why John Grisham is a household name today. Must isn’t exclusively for writers and painters and composers, though. Must is why, in the early days, Airbnb sold boxes of cereal to make ends meet because no one would give them money and every conceivable metric said they *should* quit.
+Mustを追い求めたからこそ、生涯を通じて作品を認めてもらえなくても、ゴッホは絵を書き続けたのです。評論家たちに「ひどい」と評されても、モーツァルトが Don Giovani を、コルトレーンが斬新な音楽を演奏し続けたのは、Mustを選んだからなのです。とある30代の弁護士は、Mustにしたがって3年の時間をかけて処女作となる小説を書きあげました。30以上もの出版社に持ち込むもいずれも断られましたが、内なる声を信じ続けた彼に、ついに「うちで出しましょう」と声をかけてくれた出版社が現れたのです。いまや誰もが知っている著名作家ジョン・グリシャムは、こうして生まれたのでした。Mustは作家や画家、作曲家に限った話なのか、というと、そういうわけではありません。創業したばかりの Airbnb がコーンフレークを売って厳しい資金繰りをしのいでいたのもまた、Mustを追い求めていたからなのです。当時、彼らは誰からの資金提供も受けられず、ありとあらゆる指標が*「事業をたたむべき」*と示してしまうような状態でした。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*7Qxx7MZvon9z0YAS5j4KVA.png)
 
-While working at [Mailbox](http://mailboxapp.com/), I came across [Stefan Sagmeister’s TED talk](http://www.ted.com/talks/stefan_sagmeister_the_power_of_time_off#) about jobs, careers, and callings.
+[Mailbox](http://mailboxapp.com/) というスタートアップで働いていたとき、[Stefan Sagmeister の TED トーク](http://www.ted.com/talks/stefan_sagmeister_the_power_of_time_off#)を見つけました。仕事、キャリア、callings についてのものでした。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*AtGswq2T170cbdcpGLE5mw.png)
 
-He spoke about their differences, and I began to wonder which one I had. At the same time, I was also reading [a biography about Picasso](http://www.amazon.com/Picasso-Creator-Destroyer-Arianna-Huffington/dp/1574530925).
+TED トークでは彼はそれら3つの違いについて話していて、私は「自分が持っているのはどれだろう？」などと思ったものです。また、そのころ読んでいた[ピカソの伝記](http://www.amazon.com/Picasso-Creator-Destroyer-Arianna-Huffington/dp/1574530925)にはこのようなことが書かれていました。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*sQFyPo46g_u1LG_6S835Qg.png)
 
-In it, Arianna Huffington describes the joy she felt learning about how Picasso chose to live his life:
+ピカソが画家としての人生を送るに至った経緯を知るのはとても興味深かった、という Arianna Huffington がいうには、
 
-> The more I discovered about his life and the more I delved into his art, the more the two converged**. “**It’s not what an artist does that counts, but what he is,” Picasso said. But his art was so thoroughly autobiographical that what he did was what he was.
+> ピカソの人生について知れば知るほど、彼の作品について学べば学ぶほど、それら2つを1つのものとして捉えるようになっていました。「It’s not what an artist does that counts, but what he is」というのはピカソの言葉ですが、彼の作品は本当に自伝的で、what he did was what he was.
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*YYwLwE7Nm8VBrGzDWCgUUA.png)
 
@@ -39,13 +39,15 @@ In it, Arianna Huffington describes the joy she felt learning about how Picasso 
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*2XefngprF3SdEoxycKG31w.png)
 
-Picasso’s life blended seamlessly with his work. It was all one huge swirling mix of bullfights and beaches and booze. And we could tell. Because to look at one of Picasso’s canvases is quite literally to look into his soul. And this is exactly what happens when our life, our essence, is one and the same with our work. It’s when job descriptions and titles no longer make sense because we don’t *go*to work— we *are*the work.
+ピカソの生き方は、彼の作品と一心同体といってもいいものでした。bullfights and beaches and booze.をごちゃまぜにした巨大な何かだったのです。そして、それは我々にも見て取れました。ピカソの作品を見ることは、まさに彼の魂を覗き込むことにほかならないからです。そして、まさにこれと同じことが、我々自身のlifeやessenceが仕事と一体となったときに起こります。仕事の詳細や肩書きが意味を持たなくなるのです。我々が仕事にいくのではなく、我々が仕事に*なる*からなのです。
 
-And this lead me to a big hypothesis. What if…
+そんなことを考えていると、途方もないことを思いつきました。もし……
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*7ypYs3LQxnzWDviH4wh2tw.png)
 
-What if who we are and what we do become one and the same? What if our work is so thoroughly autobiographical that we can’t parse the product from the person? What if our jobs are our careers and our callings?
+
+What if who we are and what we do become one and the same?
+What if our work is so thoroughly autobiographical that we can’t parse the product from the person? What if our jobs are our careers and our callings?
 
 And this was about the time that my head exploded.
 
