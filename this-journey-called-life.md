@@ -1,61 +1,60 @@
-This Journey called Life. {#913f .graf--h2 .graf--first name="913f"}
+終わりなき旅、それが人生
 -------------------------
 
-After celebrating forty years of existence, I thought I’d share some tidbits of what I’ve learned ….
+この世に生を受けてからはや40年。人生の教訓めいたものを、ちょっと語ってみたくなった。
 
 \
 
 * * * * *
 
-### Let’s start by saying …. {#4041 .graf--h3 .graf--first name="4041"}
+### まずはじめに……
 
--   **You are going to die**. That means you’re **alive**. Do something(s) now, when you have the chance.
+-   **人はいずれ死ぬ**。 言い換えれば、いまあなたは **生きている**。 いますぐなにか始めよう。死んだらなにもできなくなる。
 
-### Youth and the Individual. {#64cf .graf--h3 name="64cf"}
+### 若さと自分自身 {#64cf .graf--h3 name="64cf"}
 
-> “Youth is wasted on the young.” — George Bernard Shaw
+> 「若者は若さを無駄にしている」 － ジョージ・バーナード・ショー
 
--   Being young is about me, me, me. That’s okay, because we’re just finding a way to navigate Life.
--   And so, we strive for inclusion, to fit in, to be accepted …. within ourselves and with our families and peers. Feeling the warmth of love and belonging eases the anxiety in each of us, the *individual*.
--   We will identify with ideas, clothing, music, etc. to codify ourselves: I am going to be an astronaut. I wear Diesel jeans because it is trendy. That brand and its products totally defines me. Facebook is for old people and not cool, and I want to be cool. Blah, blah, blah ….
--   Along the same path, we branch out to connect with our peers. Religion, clubs, sports, band camp, racism, and any like-minded groups become vehicles for inclusion. Sometimes it’s *for* something, sometimes it’s *against* something. Everything makes sense and is absolute truth if we all agree, right?
--   Puberty is a messy time.
--   Education, education, education. Learn how to learn. Learn discipline and routine. Never stop learning.
--   I’m glad I’m not young anymore.
+-   若いときは自己中心的。なんの問題もない。人生の道しるべを探している最中なのだから。
+-   だからこそ、なにかの一部であることを強く望むようになる。まずは自分を受け入れたいし、家族や仲間に受け入れられたいと願うのだ。 愛され、居場所をえることで、**自分自身** が内にかかえる不安が和らいでいく。
+-   特定の考え方・服装・音楽などに共感を覚えることで、自分たちをグループ分けすることになる。「宇宙飛行士になりたいっ！」「Diesel のジーンズがお気に入り。流行ってるし。」「あのブランド、まさにわたしそのものだわ。」「Facebook 使ってるのはオジサンオバサンばっかり。イケてないから使わないよ。」 などなど。
+-   それと同じようにして、同世代と交流するために行動範囲を広げていく。宗教・クラブ活動・スポーツ・バンドの合宿・人種・その他いろいろ……似た興味や考え方のグループが、居場所を見つけるきっかけになってくれる。目指すものがあって行動することもあれば、何かに反抗したくて行動を起こすこともある。仲間がみんな同意してくれれば、なんでも合理的だし黒も白になるんだ（よね？）
+-   思春期は大変だ。
+-   勉強、勉強、また勉強。どうやって勉強すればいいかを身につけよう。自制心やよい習慣も身につくようにしよう。生涯勉強だ。
+-   個人的には、もう若くないことに心から感謝している。
 
-### Adultish. Maturity. Aging. {#7fad .graf--h3 name="7fad"}
+### 大人ぶること。歳相応。老けること。 {#7fad .graf--h3 name="7fad"}
 
-> “You can easily judge the character of a man by how he treats those who can do nothing for him.” — Malcolm S. Forbes
+> 「人の性格を見極めたければ、その人が『自分にとってなんの役にもたたない人』とどう接するか』を見ればいい。」 － Malcolm S. Forbes
 
--   You are a speck of **shit** in the grandness of the Universe. When you pass away, Life will go on. Hopefully, your closest friends will remember and celebrate what you meant to them. In a century, no one will remember you existed.
--   Your 20's aren’t for fucking up. Your whole life is about fucking up, learning from those lessons and fucking up less the next time. So, continue to fuck up.
--   Stop worrying about what people think of you. They’re probably not. They’re probably thinking about themselves. Or maybe what *you* think of them. Silly.
--   Hopefully, sooner than later, you’ll realize that life is not about me, me, me. Speck of **shit**, remember?
--   Moderation in everything. Don’t be an asshole and don’t be a pushover. Be assertive while listening. Drink some alcohol, but not too much and not all the time. It’s okay to be selfish, while being too selfless isn’t. Find a balance.
--   Change is the only constant in Life. It moves forward regardless of how hard you resist. Again, you are that speck of **shit**.
--   Don’t measure yourself by your age. It’s just a number. Turning 30 or 40 has less significance than having your first child or losing a family member. Those are **real** Life milestones.
--   Life is comprised of stories to better understand it. Santa Claus, fairy tales, political narrative, advertising, etc. Be wary.
--   Looking into a child’s eyes can glimpse you life’s simplicity. The need for a faster car, bigger house and more toys is a construct of our society. If you keep it simple, you’ll see Life’s joy **everywhere**.
+-   宇宙の広大さを前にすれば、一人の人間なんてゴミかす同然だ。あなたが亡くなったところで、生命の営みがとだえるわけじゃない。生前の親友たちがあなたの存在を忘れずにいて、思い出を大切にしてくれることに期待しよう。どうせ1世紀もたてば、あなたの存在なんて忘れさられてしまう。そして、人生あれこれやらかすのは20代、なんてことはない。生涯を通じてやらかし続けるはめになる。そして、そこからなにかを学び、次はもう少しうまくやれるよう努力するものだ。だから、これからもどんどんやらかしていこう。 
+-   周りにどう思われているか悩まないように。たぶん誰もあなたのことなんて考えていないんだ。みんな自分のことを考えるので精一杯なはずだから。ひょっとすると、**あなた**にどう思われているか悩んでるかもしれない。あー、あほらし。
+-   人生は自己中心的ではないと、いずれ気づくことになる。なるべく早く気づけるといいのだけれど。ほら、「ゴミかす」でしょ？
+-   なにごともほどほどに。ノリの悪い大人になっちゃいけないし、すぐノセられる大人になってもいけない。話を聞くときは流されないように心がけよう。お酒はときどき、ほどほどに。アルコールといい関係を保とう。時には自己中もいいと思う。けれど、始終自分を殺してしまうのはダメ。なにごともバランスが大事。
+-   人生で唯一確かなこと、それは「変化」。どれだけ拒んでも、必ず変化は訪れる。くどいようだけど、一人一人はゴミかす同然なのだから。
+-   年齢で自分を判断してはいけない。年齢は数字にすぎない。30代や40代になることよりもずっとインパクトがあるのが、第一子を授かることや家族の誰かが亡くなること。**まさに**人生の節目となる出来事だ。
+-   生きているなかで出会うストーリーにはきちっと理解すべきものがたくさんある。サンタクロース・おとぎ話・政治家の「語り」・広告などなど。注意を怠るな。
+-   子供の目をじっと見つめれば、人生の純粋さがかいま見えるはずだ。もっと速く走れる車・もっと広い家・もっとたくさんのおもちゃ……いずれも時代や地域といった社会環境がもたらす要素にすぎない。物事を純粋に捉えれば、人生の喜びが**あちこちに**散らばっていることに気づけるよ。
 
 ### Money, career and the holy grind. {#9dad .graf--h3 name="9dad"}
 
-> “Money cannot buy peace of mind. It cannot heal ruptured relationships, or build meaning into a life that has none.” — Richard M. DeVos
+> 「心の平穏はお金では得られない。人間関係が一度壊れてしまうと、お金では元に戻せない。意味のない人生にいくらお金を注いでも、そこに意味は生まれない。」 － Richard M. DeVos
 
--   Money doesn’t buy happiness, but it matters. You need money to survive. Figure out how much you need.
--   Strive for financial independence and the freedom to do what you want.
--   Remember, employers give you money for your time and skills.
+-  幸せをお金で買うことはできないけれど、お金にしかできないこともある。そもそも、生きていく以上お金は必要だ。自分が生きていくのにいくらかかるか、調べておこう。
+-   経済的に自立すること、自分望みを自由に追求すること。この2つを叶えるためにちゃんと努力しよう。
+-   注意： 雇用者から受け取る賃金は、あなたの時間と能力への対価である。
 
-### Relationships matter. A lot. {#43ba .graf--h3 name="43ba"}
+### 人とのつながりは大事だよ。いやほんとに。
 
-> “You are the average of the five people you spend the most time with.” — Jim Rohn
+> 「一緒に過ごした人を時間が長い順に5人選んでから、その5人を平均したような人物像を思い描いてみよう。きっとそれがあなたになるはず。」 － Jim Rohn
 
--   If you have healthy relationships, you will have a healthy life.
--   It’s easy to celebrate life with strangers or acquaintances, but don’t mistake them for friends.
--   Cultivate relationships with those that matter, those that genuinely care about you. Embrace them with your whole heart.
--   Poor communication and differences in expectations result in conflict. Speak clearly and listen intently.
--   Be kind. Be empathetic. Be grateful.
--   Manners do matter. Say “Please” and “Thank you”.
--   Take care of your parents. You’ve only one mother, one father.
--   Don’t be a dick. It’s so not cool.
+-   いい人間関係をまわりと保てていれば、人生もいいものになる。
+-   赤の他人や顔見知りに囲まれて人生を楽しく過ごすのは簡単。でも、そういった人たちは友達だとは思わないようにしよう。
+-   育むべき人間関係は、あなたが大切にしたい人、あなたのことを心から気にかけてくれる人とのもの。そういった関係を心から受け入れるようにしよう。
+-   コミュニケーション不足や期待はずれが元で、もめごとは起こってしまうもの。はっきりと意思表示し、相手の話はきちんと耳を傾けよう。
+-   親切であれ。新身になれ。常に感謝を。
+-   親しき仲にも礼儀あり。「お願いします」「ありがとう」を忘れずに。
+-   両親を大切にしよう。お父さんとお母さん、それぞれ世界に1人だけ。
+-   へそ曲がりな人間になるな。本当に格好悪いから。
 
 > “The hardest thing in this world .… is to live in it.”* *— Buffy Summers
