@@ -1,25 +1,24 @@
-The Future of eSports {#4b6b .graf--h2 name="4b6b" data-align="center"}
----------------------
+eSports に未来はあるのか
 
-### Part I: Beyond the Hype {#9140 .graf--h3 name="9140" data-align="center"}
+### 第1部：Beyond the Hype {#9140 .graf--h3 name="9140" data-align="center"}
 
 [电子竞技路在何方（一）：珍爱生命，远离炒作 | 闷瓜电台](http://mp.weixin.qq.com/s?__biz=MjM5NzIzNDMzNQ==&mid=213259879&idx=1&sn=b8c9e2edd9ea77d0663d7d667aab4219#rd)\
-**By Jonathan Pan**\
-*Illustrations by*[*Paul Reinwand*](http://www.konradwerks.com/)
+**Jonathan Pan**\
+*イラスト *[*Paul Reinwand*](http://www.konradwerks.com/)
 
 *“Is this now their Baron? Yes, it is Riv. Yes it is. TSM waiting for the one team fight once again, and Team Liquid hand it to them on a silver platter. They start up the Baron just because Turtle is bottom. You are not late game yet. This is only 26 minutes in, you can’t burn through this Baron. An AD carry being bottom — OHHHHH MY GOD HE STOLE IT.”*
 
-If you understood the play-by-play, you were probably one of the 360,000 fans who watched this game live on YouTube, Twitch, or Azubu. For those of you who have no idea what Baron is, it is an objective in the competitive online multi-player game League of Legends.
+YouTube・Twitch・Azubu で先日配信されたゲーム対戦の生中継をみていた36万人なら、上記の実況にピンときたと思う。「Baron ってなんのこと？さっぱりだよ」という人のために説明すると、League of Legends というネット対戦ゲームでプレーヤーが狙うものの1つが Baron だ。
 
-League of Legends is one of a handful of video games where teams compete for fame and fortune in organized competitions. This is eSports. According to ESPN, “[Resistance is futile: eSports is massive … and growing.](http://espn.go.com/espn/story/_/id/13059210/esports-massive-industry-growing)” Many companies and investors are going bananas over the effusive and glowing headlines (examples [1](http://fortune.com/2015/04/20/esports-billion-dollar-industry/), [2](http://www.theverge.com/2015/6/5/8734511/dota-2-the-international-2015-prize-pool), [3](http://seekingalpha.com/article/3322995-esports-the-future-of-entertainment)). Mark Cuban, the owner of the Dallas Mavericks, has [invested](http://www.inc.com/graham-winfrey/mark-cuban-unikrn.html). David Stern, ex-NBA Commissioner, has [invested](http://fortune.com/2015/05/19/startups-betting-on-esports/). The narrative that helped spur these investments hails eSports as the birth of a new sport. I disagree with that narrative.
+現在、富と名声を目指してチームを組んで対戦するオンラインゲームがいくつかあって、League of Legends もその1つだ。そういったゲームは、eSports と呼ばれている。ESPN によれば、「抵抗はやめろ。eSports がきてるぞ。しかもすごい規模で。」(http://espn.go.com/espn/story/_/id/13059210/esports-massive-industry-growing) とのこと。熱狂的な記事をみた多くの企業や投資家たちが、躍起になってもいる（例[1](http://fortune.com/2015/04/20/esports-billion-dollar-industry/)、例[2](http://www.theverge.com/2015/6/5/8734511/dota-2-the-international-2015-prize-pool)、例[3](http://seekingalpha.com/article/3322995-esports-the-future-of-entertainment)）。NBA ダラス・マーベリックスのオーナーであるマーク・キューバン氏や、同じく NBA の前コミッショナーであるデビッド・スターン氏もすでに投資したそうだ。出資に至る過程で彼らを後押ししたのが、「eSports は新しいスポーツ種目だ！」という主張だったのだが、僕はこれには同意できない。
 
-As an eSports fan, I want eSports to be successful. And in order for eSports to be successful, the ecosystem needs **sustainable** businesses and **positive** returns for investors. Comparing eSports to sports unnecessarily elevates the expectations of investors. The eSports-as-sports narrative started because of the superficial and selective reporting of eSports data. I’ll share three examples (viewership, sponsorship, and prize pools) of how the data has been hyped and what that means for investors. I’ll also argue for why game publishers should view eSports as retention marketing (keeping existing customers) rather than the birth of a sport over the next five years.
+僕自身 eSports が好きなので、今後も成功していってほしいと願っている。eSports が成功するには**長期にわたって運用できるような**ビジネスモデルが必要だし、投資家にとっても**おいしい**話じゃなきゃいけない。けれど、eSports を通常のスポーツと並べて考えてしまった結果、投資家の期待値は行き過ぎたレベルまで膨らんでしまった。「eSports はスポーツ種目」という主張が盛り上がったのは、eSports 関連の指標を断片的にしか見てこなかったからだと思っている。これから、そういった指標がどれほど誇張されているかを、3つの例（視聴者数・スポンサー・賞金総額）を使って説明していこう。投資家たちが指標をどう捉えるべきかも併せて説明する。また、ゲーム制作側、特に企画・販売に関わる企業（ゲームパブリッシャー）は eSports をリテンションマーケティングと捉えるべきで、今後5年のあいだに新しく生まれるスポーツ種目などと考えてはいけない理由についても述べたい。
 
 * * * * *
 
 ![](https://cdn-images-2.medium.com/max/600/1*pDOgG2o17epsawvIYJmHvQ.jpeg)
 
-A [wild](http://knowyourmeme.com/memes/a-wild-x-appears-wild-x-appeared) disclosure paragraph appears! I used to work at Riot Games, but not in their eSports department. Riot Games is the publisher of one of the most popular eSports games to date, League of Legends. For the past three months, I have been exploring business opportunities in eSports and I’m sharing the information I have collected to inform others interested in entering this space. Specifically, I have spoken to professional eSports players, teams, leagues, game publishers, streaming platforms, YouTube Multi-Channel Networks, talent and sports agencies, advertising agencies, sports consulting firms, and major professional sports leagues in the U.S..
+A [wild](http://knowyourmeme.com/memes/a-wild-x-appears-wild-x-appeared) disclosure paragraph appears! 実は、Riot Games で以前働いていた時期がある。eSports 部門ではなかったけれど。Riot Games はゲームパブリッシャーで、eSports ゲームのなかで今一番人気がある League of Legends を販売している。僕はこの3ヶ月、eSports のビジネスチャンスを探ってきた。この分野への参入に関心がある人たちに向けて、そこで調査した内容を共有しようと思う。なお、この調査には大勢の方々（プロの eSports 選手・チーム・リーグ、ゲームパブリッシャー、プレイ動画配信サイト、YouTube 関連のマルチチャンネルネットワーク、芸能・スポーツプロダクション、広告代理店、スポーツコンサルタント企業、米国内の主要プロスポーツリーグ）へのインタビューがもとになっている。
 
 * * * * *
 
