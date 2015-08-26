@@ -10,47 +10,47 @@ eSports に未来はあるのか
 
 YouTube・Twitch・Azubu で先日配信されたゲーム対戦の生中継をみていた36万人なら、上記の実況にピンときたと思う。「Baron ってなんのこと？さっぱりだよ」という人のために説明すると、League of Legends というネット対戦ゲームでプレーヤーが狙うものの1つが Baron だ。
 
-現在、富と名声を目指してチームを組んで対戦するオンラインゲームがいくつかあって、League of Legends もその1つだ。そういったゲームは、eSports と呼ばれている。ESPN によれば、「抵抗はやめろ。eSports がきてるぞ。しかもすごい規模で。」(http://espn.go.com/espn/story/_/id/13059210/esports-massive-industry-growing) とのこと。熱狂的な記事をみた多くの企業や投資家たちが、躍起になってもいる（例[1](http://fortune.com/2015/04/20/esports-billion-dollar-industry/)、例[2](http://www.theverge.com/2015/6/5/8734511/dota-2-the-international-2015-prize-pool)、例[3](http://seekingalpha.com/article/3322995-esports-the-future-of-entertainment)）。NBA ダラス・マーベリックスのオーナーであるマーク・キューバン氏や、同じく NBA の前コミッショナーであるデビッド・スターン氏もすでに投資したそうだ。出資に至る過程で彼らを後押ししたのが、「eSports は新しいスポーツ種目だ！」という主張だったのだが、僕はこれには同意できない。
+現在、富と名声を目指してチームを組んで対戦するオンラインゲームがいくつかあって、League of Legends もその1つだ。そういったゲームは、eSports と呼ばれている。ESPN によれば、「抵抗はやめろ。eSports がきてるぞ。しかもすごい規模で。」(http://espn.go.com/espn/story/_/id/13059210/esports-massive-industry-growing) とのこと。熱狂的な記事をみた多くの企業や投資家たちが、躍起になってもいる（例[1](http://fortune.com/2015/04/20/esports-billion-dollar-industry/)、例[2](http://www.theverge.com/2015/6/5/8734511/dota-2-the-international-2015-prize-pool)、例[3](http://seekingalpha.com/article/3322995-esports-the-future-of-entertainment)）。NBA ダラス・マーベリックスのオーナーであるマーク・キューバン氏や、同じく NBA の前コミッショナーであるデビッド・スターン氏もすでに投資したそうだ。出資に至る過程で彼らを後押ししたのが、「eSports は新しいスポーツ種目だ！」という主張だったのだが、私はこれには同意できない。
 
-僕自身 eSports が好きなので、今後も成功していってほしいと願っている。eSports が成功するには**長期にわたって運用できるような**ビジネスモデルが必要だし、投資家にとっても**おいしい**話じゃなきゃいけない。けれど、eSports を通常のスポーツと並べて考えてしまった結果、投資家の期待値は行き過ぎたレベルまで膨らんでしまった。「eSports はスポーツ種目」という主張が盛り上がったのは、eSports 関連の指標を断片的にしか見てこなかったからだと思っている。これから、そういった指標がどれほど誇張されているかを、3つの例（視聴者数・スポンサー・賞金総額）を使って説明していこう。投資家たちが指標をどう捉えるべきかも併せて説明する。また、ゲーム制作側、特に企画・販売に関わる企業（ゲームパブリッシャー）は eSports をリテンションマーケティングと捉えるべきで、今後5年のあいだに新しく生まれるスポーツ種目などと考えてはいけない理由についても述べたい。
+私自身 eSports が好きなので、今後も成功していってほしいと願っている。eSports が成功するには**長期にわたって運用できるような**ビジネスモデルが必要だし、投資家にとっても**おいしい**話じゃなきゃいけない。けれど、eSports を通常のスポーツと並べて考えてしまった結果、投資家の期待値は行き過ぎたレベルまで膨らんでしまった。「eSports はスポーツ種目」という主張が盛り上がったのは、eSports 関連の指標を断片的にしか見てこなかったからだと思っている。これから、そういった指標がどれほど誇張されているかを、3つの例（視聴者数・スポンサー・賞金総額）を使って説明していこう。投資家たちが指標をどう捉えるべきかも併せて説明する。また、ゲーム制作側、特に企画・販売に関わる企業（ゲームパブリッシャー）は eSports をリテンションマーケティングと捉えるべきで、今後5年のあいだに新しく生まれるスポーツ種目などと考えてはいけない理由についても述べたい。
 
 * * * * *
 
 ![](https://cdn-images-2.medium.com/max/600/1*pDOgG2o17epsawvIYJmHvQ.jpeg)
 
-A [wild](http://knowyourmeme.com/memes/a-wild-x-appears-wild-x-appeared) disclosure paragraph appears! 実は、Riot Games で以前働いていた時期がある。eSports 部門ではなかったけれど。Riot Games はゲームパブリッシャーで、eSports ゲームのなかで今一番人気がある League of Legends を販売している。僕はこの3ヶ月、eSports のビジネスチャンスを探ってきた。この分野への参入に関心がある人たちに向けて、そこで調査した内容を共有しようと思う。なお、この調査には大勢の方々（プロの eSports 選手・チーム・リーグ、ゲームパブリッシャー、プレイ動画配信サイト、YouTube 関連のマルチチャンネルネットワーク、芸能・スポーツプロダクション、広告代理店、スポーツコンサルタント企業、米国内の主要プロスポーツリーグ）へのインタビューがもとになっている。
+A [wild](http://knowyourmeme.com/memes/a-wild-x-appears-wild-x-appeared) disclosure paragraph appears! 実は、Riot Games で以前働いていた時期がある。eSports 部門ではなかったけれど。Riot Games はゲームパブリッシャーで、eSports ゲームのなかで今一番人気がある League of Legends を販売している。私はこの3ヶ月、eSports のビジネスチャンスを探ってきた。この分野への参入に関心がある人たちに向けて、そこで調査した内容を共有しようと思う。なお、この調査には大勢の方々（プロの eSports 選手・チーム・リーグ、ゲームパブリッシャー、プレイ動画配信サイト、YouTube 関連のマルチチャンネルネットワーク、芸能・スポーツプロダクション、広告代理店、スポーツコンサルタント企業、米国内の主要プロスポーツリーグ）へのインタビューがもとになっている。
 
 * * * * *
 
-### For Investors: eSports Data is Too Hyped {#da76 .graf--h3 .graf--first name="da76"}
+### 【投資家各位】 eSports データの誇張が目に余る件について
 
 ![](https://cdn-images-2.medium.com/max/800/1*g61hFHi2Rp4gJy2F11L94g.jpeg)
 
-**Example \#1 (Viewership):** *“More people watch eSports than watch the World Series or NBA Finals.”*([Source](http://ftw.usatoday.com/2014/05/league-of-legends-popularity-world-series-nba))
+**その1（視聴者数）**： *「メジャーリーグのワールドシリーズやNBAファイナルを見る人よりも、eSports を見る人のほうが多い」*([引用元](http://ftw.usatoday.com/2014/05/league-of-legends-popularity-world-series-nba))
 
-#### My Assessment: False. {#dcea .graf--h4 name="dcea" data-align="center"}
+#### 私の評価： 誤り
+\
+
+上記の記事では League of Legends が eSports のサンプルとして取り上げられた。もし記事の主張が以下のような内容だったなら、私の評価は「正しい」になっていただろう。「2014年の League of Legends World Championship をネット配信で見た人は全世界で2,700万人(http://www.riotgames.com/articles/20141201/1628/worlds-2014-numbers)。一方、NBAファイナルの5連戦をテレビで見た人は全米で1試合平均1,550万人(http://www.nba.com/2014/news/06/17/nba-finals-nielsen-ratings.ap/)で、激戦となった最終第5戦を見たのは1,800万人だった。よって、eSports を見た人のほうが多かったといえる。」
+
+残念ながら引用元の主張はそうなっていない。全世界のオンライン視聴者数と全米のテレビ視聴者数を比較してしまっているからだ。全世界のNBA視聴者数を考えるのに、海外で[一番 NBA関連市場が大きい国](http://www.reuters.com/article/2013/02/22/us-nba-china-idUSBRE91L18420130222)である中国を外すわけにはいかない。さきほど比較に挙げたNBAファイナルの中国での視聴者数は明らかにはなっていないが、中国の正月に開催される Chinese New Year NBA の視聴者数を見ればその規模感はつかめるだろう。2013年の場合、その数は[1億700万人](http://variety.com/2013/tv/news/nba-grows-in-china-1200498569/)だった。翌年は[1億1,600万人](http://usa.chinadaily.com.cn/epaper/2014-04/04/content_17409032.htm)だ。そのうちのほんの一部、プラス中国以外の国での視聴者数をトータルすれば、全世界での NBA ファイナル視聴者数は2,700万人よりほぼ間違いなく多くなるだろう。
+
+また、より強く関心をひくのが、視聴者にどれほどの値打ちがあるのか、ということだ。もちろん、それは放映権料によって変わってくる。[*ニューヨーク・タイムズによれば*](http://www.nytimes.com/2014/10/06/sports/basketball/nba-said-to-be-near-new-tv-deal-for-24-billion.html)、NBA の米国内での放映権料は9年で2兆8,800億円（1ドル=120円換算。以下、金額に表記がない場合もすべて同様。）だそうだ。また、NBA は中国国内でのネット配信契約を、5年間600億円以上で Tencent と交わしている。一方、eSports の放映権料はというと、おおやけになっている数値は存在しない。だが、一連のインタビューのなかでは、「最大規模の契約でも数千万円規模」という話を耳にした。
+
+**その2 スポンサー** eSports が今後も過去に例を見ないスピードで規模を広げていくなら、Newzoo 社CEOのウォーマン氏によれば「スポンサー獲得で争う手強い相手として、NFLなどの主要スポーツリーグが eSports を注視しはじめるのは時間の問題だ」そうだ。（引用元(http://fortune.com/2015/04/20/esports-billion-dollar-industry/)）
+
+#### 私の評価： 誤り
 
 \
 
-In this example, the eSport referenced was League of Legends. The statement *would* be true if it stated, “there were [27 million viewers](http://www.riotgames.com/articles/20141201/1628/worlds-2014-numbers) globally who watched the 2014 League of Legends**World Championship online, which was more than the [15.5 million viewers](http://www.nba.com/2014/news/06/17/nba-finals-nielsen-ratings.ap/) (on average) who watched the five-game NBA Finals series on television in the United States, or the 18 million viewers who watched the clinching Game 5.”
+いまのところ、eSports リーグについている企業スポンサーは最大規模でも毎年数千万円規模だ。一方 NFL の場合は、米国内25～30社程度と複数年契約でそれぞれ数十～数百億円規模のスポンサー契約を結んでいる（参考 (http://www.sponsorship.com/getattachment/cba3c609-856c-4983-b292-0ebd1e06c4a4/Field-table.jpg.aspx)。毎年、スポンサー料で1,380億円が NFL に入る計算だ。
 
-This original statement is a faulty comparison because it compares global digital viewers versus U.S. television viewers. If you want to talk about NBA global viewership, you can’t ignore China, the NBA’s [number one international market](http://www.reuters.com/article/2013/02/22/us-nba-china-idUSBRE91L18420130222). While the NBA Finals viewership numbers in China are not disclosed, we can get a sense of the scope by looking at viewership numbers for the Chinese New Year NBA games. In 2013, there were [107 million](http://variety.com/2013/tv/news/nba-grows-in-china-1200498569/) viewers. In 2014, [116 million](http://usa.chinadaily.com.cn/epaper/2014-04/04/content_17409032.htm). If you add even a fraction of that figure, plus viewers in other international markets, the global viewership for the NBA Finals will almost certainly exceed 27 million viewers.
+NFL しかり、他の主だったプロスポーツリーグしかり、スポンサー獲得で争う手強い相手として eSports を注視することにはとうぶんのあいだなりそうにもない。というのも、eSports には企業スポンサーをとりまく仕組みがないからだ。ここで、企業スポンサーをとりまく仕組みがどういったものなのか、実例を交えて説明しよう。具体的には、スポーツは State Farm 社、eSports は HTC 社の例を紹介する。
 
-The more important question to ask is how much are the viewers worth? That depends on the value of the broadcast rights. The NBA’s U.S. broadcast deal is valued at \$24 billion over 9 years, according to [*The New York Times*](http://www.nytimes.com/2014/10/06/sports/basketball/nba-said-to-be-near-new-tv-deal-for-24-billion.html). The NBA’s Chinese digital broadcast deal with Tencent is worth at least [\$500 million](http://www.nytimes.com/2015/01/30/sports/basketball/nba-to-stream-games-in-china.html) over 5 years. There are no publicly available eSports broadcast rights figures but my sources stated that the largest broadcast deals in eSports are in the low-six figure range.
+スポーツスポンサーの業界には、商品（スポーツリーグ・チーム・選手)、権利者（ブランド）、広告代理店、スポーツエージェントが関わっている。ちなみに、スポーツエージェントとは、権利者が自社ブランドをプロモーションすることや、商品側が自分たちの権利を権利者に販売することを支援する職種のことだ。
 
-**Example \#2 (Sponsorship):***“As eSports continues to grow at a record pace, Warman believes it’s just a matter of time before big leagues like the NFL begin worrying about eSports as serious competition to sponsors.”*([Source](http://fortune.com/2015/04/20/esports-billion-dollar-industry/))
-
-#### My Assessment: False. {#df2c .graf--h4 name="df2c" data-align="center"}
-
-\
-
-Currently, the largest corporate sponsorship for an eSports league is in the low six-figure range *annually*. The NFL has between 25–30 eight to nine-figure multi-year national-level sponsorships (source: [IEG](http://www.sponsorship.com/getattachment/cba3c609-856c-4983-b292-0ebd1e06c4a4/Field-table.jpg.aspx)). On an annual basis, NFL sponsorships are estimated to be worth [\$1.15 billion](http://www.sponsorship.com/IEGSR/2015/04/06/NFL-Sponsorship-Revenue-Totals-$1-15-Billion-In-20.aspx).
-
-Neither the NFL nor any other major professional sports league needs to worry about eSports being a serious competitor to sponsors anytime soon because the infrastructure in eSports sponsorships doesn’t exist. Let’s look at one brand working with sponsorships in sports (State Farm) versus another brand working with sponsorships in eSports (HTC).
-
-In the business of sports sponsorships, there are properties (leagues, teams, players), rights holders (brands), advertising agencies, and sports agencies (IMG, Octagon) that help rights holders activate their properties and help properties sell their rights to rights holders.
-
-State Farm wants to use NBA stars like Stephen Curry, the point guard for the Golden State Warriors, for their commercials. They would start off by contacting his sports agency, Octagon. Octagon’s job is to find the best and the “right” deals for their clients. Once State Farm secured the commercial rights for the NBA stars they wanted, they used the advertising agency [Translation](http://www.translationllc.com/work/) to create the Born to Assist campaign.
+ここでは、State Farm 社が NBA のトップ選手であるステファン・カリー（ゴールデンステート・ウォリアーズのポイントガード）を自社の広告に採用するまでの流れをみてみよう。State Farm 社はまず、カリー選手のスポーツエージェントである Octagon 社に話をもちかける。話を受けた Octagon 社は、クライアントであるカリー選手と State Farm 社の双方にとって最高かつ「最適」な契約となるよう、落とし所を探していく。
+Once State Farm secured the commercial rights for the NBA stars they wanted, they used the advertising agency [Translation](http://www.translationllc.com/work/) to create the Born to Assist campaign.
 
 HTC, a Taiwanese smartphone maker, wants to use eSports teams for their digital advertising. There is no prominent broker or adviser like Octagon to help HTC explore the options. HTC has to make a deal with team owners directly. Since there isn’t an advertising agency working in the eSports space, HTC has to use the eSports team’s video production resources or contracts out the work to freelance crews.
 
