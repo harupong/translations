@@ -91,28 +91,24 @@ eSports を利益を生む事業に変えるために克服すべき問題はこ
 
 eSports を今後5年で利益が出る事業に変えようとしても、「収支トントン」がいいところだろう。だが、リテンションマーケティングと捉えれば、見通しはグッと良くなってくる。eSports 要素を備えたゲームには、ブランドや各種権利が1,000億円規模に及ぶものもあるからだ。そういった規模のブランドであれば、ゲームかどうかに関係なく、おおむね売上の10％がマーケティング予算にあてられる。100億円ものマーケティング予算がつくブランドであれば、その予算をメディア（テレビ・出版物・ネット・ライブイベント）ごとに振り分けてもいいし、顧客層（新規か既存）に応じて振り分けてもいいだろう。eSports は内容がかなり複雑なので、サッカーなどの競技と違い「はじめての人も試合を見ていれば展開が想像できる」というわけにはいかない。そのため、eSports をリテンションマーケティングの一環と捉える関係者は多い。
 
-去年公開された情報によると、Twitch でゲームプレイ動画をみている人の58％は、毎日3時間(http://www.businessinsider.com/statistics-about-twitch-2014)（1周間で20時間）も同サイトに滞在して動画をみているそうだ。
-Not all of those users are watching eSports but if you logged into Twitch every day for a week, you will see that the top games have an eSports component: League of Legends, Dota 2, CS:GO, and Hearthstone. Spending \$40-\$55 million for a billion dollar brand to have your customers potentially watch up to three hours per day of your game in addition to playing it and spending money on it is huge. According to the [Bureau of Labor Statistics](http://www.bls.gov/news.release/atus.nr0.htm), the average American spends 5.2–6 hours per day on leisure activities.
+去年公開された情報によると、Twitch でゲームプレイ動画をみている人の58％は、毎日3時間(http://www.businessinsider.com/statistics-about-twitch-2014)（1週間で20時間）も同サイトに滞在して動画をみているそうだ。もちろん、その全員が eSports を見ているわけではない。けれども、1週間毎日 Twitch にアクセスすれば、はやりのゲーム（League of Legends、Dota 2、CS:GO、Hearthstone）には eSports の要素があることに気づくだろう。「自社ゲームのユーザーがこれまでどおりゲームで遊んだりお金を使ったりすることにくわえて、毎日最大3時間、そのゲームのプレイ動画を見てくれるようになる」。1000億円規模のブランドとなったゲームからすれば、48～66億円の出費でそれが叶うのであれば大歓迎のはずだ。ちなみに、[米国労働統計局](http://www.bls.gov/news.release/atus.nr0.htm)によれば、アメリカ人は平均で1日5.2～6.0時間程度の余暇があるそうだ。
 
-eSports is a great way for game publishers to monopolize that share of leisure time.
+ゲームパブリッシャー目線で考えれば、その余暇を独占するのにぴったりの方法が eSports といえる。
 
-### Conclusion {#fd36 .graf--h3 name="fd36"}
+### 結論
+eSports がその規模を拡大しているのは明らかで、それはゲーム好きにとっては最高のことだ。いま eSports に必要なことは、インフラ面での投資家からの支援と、ゲームパブリッシャーが長期に渡り取り組めるビジネスモデルだろう。それらが揃えば、次の段階へさらに成長していけるはずだ。
 
-The growth of eSports is undeniable and is a great thing for gamers. eSports needs infrastructure investments from investors and sustainable business models for game publishers to evolve into the next level.
+投資家の方々には、eSports インフラ整備の一翼を担うようなスタートアップに注目してもらいたい。「eSports 選手一人一人の選手生命をどうやって伸ばすか」「eSports スポンサーに特化した形のアドテク開発」などに取り組むスタートアップにこそ価値がある。ファン層から直接利益を得ようとしているスタートアップのことは忘れてほしい。また、ゲームパブリッシャーと手を組んだり、eSports チームに出資してチームオーナー側にまわるのも一度検討に値するだろう。
 
-For investors, I recommend looking at startups that are helping build out the infrastructure of eSports (how to increase average player career length, ad-tech for eSports sponsorships, etc.) rather than monetizing the fanbase directly. Partnering with game publishers or buying ownership stakes in eSports teams are great options to consider.
-
-For game publishers, I recommend putting the brakes on the eSports-as-sports narrative and consider eSports as retention marketing in the next five years. There is a lot of infrastructure to be built and no one is in a better position than the game publishers to build it. eSports departments might be in the red or barely breakeven, but that is a worthy price to pay to earn the customer’s media consumption.
+ゲームパブリッシャーの方々には、「eSports はスポーツのいち種目だ」という主張を一度取り下げ、今後5年間はリテンションマーケティングとして eSports に取り組むことを検討してもらいたい。eSports インフラ整備はまだまだこれからで、There is a lot of infrastructure to be built and no one is in a better position than the game publishers to build it. 収支は赤字に陥るか、かろうじて黒字になるか程度だろうが、消費者の余暇を独占できると思えば十分見合うはずだ。
 
 * * * * *
 
-If you liked the post, **please hit ♥** so others can enjoy it too. You can follow me on [Twitter](https://twitter.com/notvert) or join this [mailing list](http://eepurl.com/btezGf) if you want to be notified when the next part on sponsorships comes out.
+このストーリーは楽しんでもらえただろうか。ぜひ ♥ を押してみんなにもシェアしてほしい。筆者を Twitter でフォローしたい場合はこちら(https://twitter.com/notvert) から、次回のスポンサー募集について通知を受けたい方はこちらのメーリングリスト(http://eepurl.com/btezGf)を購読することをおすすめする。
 
 * * * * *
 
-Read part two:
+第2部
 
 [](https://medium.com/p/a2873bc14b70)[**eSports: The Convergence of Two Worlds**\
 *How Sports and eSports Help Each Other*medium.com](https://medium.com/p/a2873bc14b70 "https://medium.com/p/a2873bc14b70")
-
-Thanks to [Ann Vanderhelm](https://medium.com/@ironmaidann "Go to the profile of Ann Vanderhelm") and [Deanna Nguyen](https://medium.com/@deannanguyen "Go to the profile of Deanna Nguyen").
